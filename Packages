@@ -386,6 +386,25 @@ Version: 1.7.1
 Architecture: iphoneos-arm
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
 Depends: firmware (>= 5.0), mobilesubstrate, com.chpwn.weeloader, preferenceloader
+Filename: debs/com.jamied360.ncsettings_1.7.1_iphoneos-arm.deb
+Size: 469838
+MD5sum: 6f472f4cf6b12e1b19ef28ac0fd47d97
+SHA1: 566fe499d697a809bf3b05572ca0d72c7461a500
+SHA256: dd8f4d64ca86378fe8b98346216983d274b611aa81b3ce572677595f4147fd18
+Section: Addons (NotificationCenter)
+Priority: extra
+Homepage: http://modmyi.com/info/ncsettings.php
+Description: NCSettings is a sleek Notification Center toggle widget
+Author: JamieD360 <jamied360support@live.co.uk>
+Depiction: http://modmyi.com/info/ncsettings.d.php
+Name: NCSettings
+Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
+
+Package: com.jamied360.ncsettings
+Version: 1.7.1
+Architecture: iphoneos-arm
+Maintainer: poetic_folly <poetic_folly@modmyi.com>
+Depends: firmware (>= 5.0), mobilesubstrate, com.chpwn.weeloader, preferenceloader
 Filename: debs/tomkids.ncsettings_1.7.1_iphoneos-arm.deb
 Size: 469848
 MD5sum: e165cb7653f3923836b609ef54f15330
@@ -573,6 +592,21 @@ Description: Fix iOS's weather app from iPhoneOS 2 to iOS 7, the weather widget 
 Author: Requis
 Depiction: http://cydia.skyglow.es/depictions/com.skyglow.weatherx/depictions/index.html
 Name: WeatherX
+
+Package: com.tqm-mos.fontbauserif
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: @tqmmos
+Filename: debs/com.tqm-mos.fontbauserif_1.0_iphoneos-arm.deb
+Size: 5159024
+MD5sum: 5cb7af2640ce369fbdcc02c1a112b96b
+SHA1: 1c29c38d238173cf1d1786becbc13cec86a05bf4
+SHA256: 40f92c317b203268f3c5dbc13139f4498a0d98231271a4f05d82e7c49ac0c752
+Section: Fonts
+Description: Phông chữ thay trực tiếp hệ thống.
+Author: @tqmmos
+Depiction: https://tqm-mos.com/Classic/Info/com.tqm-mos.fontbauserif
+Name: BAUSERIF (iOS6)
 
 Package: com.tqm-mos.kdfuapp
 Version: 1.0.3
@@ -766,6 +800,26 @@ Depiction: https://cydia.preloading.dev/depictions/tubereplacer/1.0/
 Icon: file:///Library/PreferenceBundles/TubeReplacerPrefs.bundle/icon@full.png
 Name: TubeReplacer
 
+Package: dev.preloading.tubereplacer
+Version: 1.0.5
+Architecture: iphoneos-arm
+Maintainer: Preloading <me@preloading.dev>
+Installed-Size: 960
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 5.0), firmware (<< 11.0)
+Conflicts: bag.xml.tuberepair
+Filename: debs/dev.preloading.tubereplacer_1.0.5_iphoneos-arm.deb
+Size: 325930
+MD5sum: eeffba29ce38081ed0ad2fc95e8401f0
+SHA1: 69127a7bceacc198292c9b37c345453f1b92620e
+SHA256: 07c22e4f6f52014e4a5d9b48d30b097897933d5dbecb70beaf4050bc7d8a535e
+Section: Tweaks
+Homepage: https://cydia.preloading.dev/depictions/tubereplacer/1.0/
+Description: A fix for YouTube with sign-in.
+Author: Preloading <me@preloading.dev>
+Depiction: https://cydia.preloading.dev/depictions/tubereplacer/1.0/
+Icon: file:///Library/PreferenceBundles/TubeReplacerPrefs.bundle/icon@full.png
+Name: TubeReplacer
+
 Package: dpkg
 Version: 1.18.10-12
 Architecture: iphoneos-arm
@@ -873,6 +927,27 @@ Section: Terminal Support
 Description: A command-line system information tool written in bash 3.2+ from https://github.com/dylanaraps/neofetch, packaged for iOS
 Author: dylanaraps
 Name: neofetch
+
+Package: net.angelxwind.appsyncunified
+Version: 84.0
+Architecture: iphoneos-arm
+Maintainer: Karen/あけみ <karen@akemi.ai>
+Installed-Size: 496
+Depends: firmware (>= 5.0), firmware (<= 13.7), firmware (<< 12.0) | mobilesubstrate (>= 0.9.5100) | mobilesubstrate (<= 0.9.6301) | mobilesubstrate (= 0.9.7020) | mobilesubstrate (= 0.9.7033) | mobilesubstrate (>= 0.9.7034) | com.ex.substitute (>= 0.1.0), firmware (<< 12.0) | mobilesubstrate (<< 99.0) | com.ex.libsubstitute (>= 0.1.1)
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, com.ifucker.appsync, com.sexyphonetech.appsyncunified, appsyncunifiedofficial, org.digbick.asufixed, cn.mingmei.asu623517234615234813, science.xnu.substitute
+Replaces: us.hackulo.appsync50
+Provides: appsync
+Filename: debs/net.angelxwind.appsyncunified_84.0_iphoneos-arm.deb
+Size: 43174
+MD5sum: cd3210ba2a3db4b9ab5b6536ad79ff19
+SHA1: 4d529a77991aadffa281262bd1e4f8cb15cf5c74
+SHA256: 22a6821c227f6379c9ff5b139d3c55de09f21b9daf4556ba9732ef453bcaded2
+Section: Tweaks
+Homepage: https://cydia.akemi.ai/
+Description: Enables the ability to install unsigned/fakesigned iOS applications.
+Author: Linus Yang, Karen/あけみ <karen@akemi.ai>
+Depiction: https://cydia.akemi.ai/?page/net.angelxwind.appsyncunified
+Name: AppSync Unified
 
 Package: openssh
 Version: 6.7p1-13
@@ -1157,6 +1232,23 @@ Description: Copy iBooks IPA to /var/mobile/Media/Downloads
 Author: Tomkids
 Icon: https://tomkidss.github.io/cydia/icons/ibooks.png8
 Name: iBooks IPA
+
+Package: tomkids.iconrepo
+Version: 1.0
+Architecture: iphoneos-arm
+Essential: yes
+Maintainer: Tomkids
+Filename: debs/com.tomkids.repoicon_1.0_iphoneos-arm.deb
+Size: 809890
+MD5sum: 885e5c076f7cb89e5fda9c255be733bf
+SHA1: 869f97697d86cb20ed10f232593788854eab82a6
+SHA256: 88e961decfe6fb4f52cb7c314225630cf058ad85794daaedc70766b28ada59aa
+Section: System
+Description: Biểu tượng Cydia Tomkids's tweaks
+Author: Tomkids
+Depiction: http://tomkidss.github.io/cydia/icons/applications.png
+Icon: file:///Applications/Cydia.app/Sections/Applications.png
+Name: Tomkids's Repo icon
 
 Package: tomkids.nhaccuatui
 Version: 5.3.1
@@ -1750,6 +1842,21 @@ Depiction: http://cydia.gsm.vn/t2238/
 Icon: file:///Library/PreferenceLoader/Preferences/Zephyr@2x.png
 Name: Zephyr
 Sponsor: Cydia.vn Blog's <http://cydia.vn/>
+
+Package: vn.tomkids.repoicon
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Tomkids
+Depends: firmware (>= 7.0)
+Filename: debs/vn.tomkids.repoicon_1.0.0_iphoneos-arm.deb
+Size: 795424
+MD5sum: 85080245525c8bddc45f2a8ec3f786f6
+SHA1: c6b54a2ecdd6819c0d1c24c0368934f311f398c8
+SHA256: a4de1fa3596147ea5b6ddebeafb7c3c3414445a001c780c5bb0389301b1f96c1
+Section: Tweaks
+Description: Copy Tomkids repo Applications.png icon into Cydia Sections folder.
+Author: Tomkids
+Name: Tomkids' repo icon
 
 Package: vn.tomkids.tweaks.ncmusicpanel
 Version: 3.2.0-2+debug
