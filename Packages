@@ -452,19 +452,18 @@ Author: Linus Yang
 Name: YoutubeNoAd
 
 Package: com.long.ledaudio
-Version: 1.0-1
+Version: 1.0-5
 Architecture: iphoneos-arm
 Maintainer: Tomkids
-Depends: firmware (>= 6.0)
-Filename: debs/tomkids.ledaudio_1.0-1_iphoneos-arm.deb
-Size: 2076156
-MD5sum: ffdf07336135d64614cc496fff9f5d63
-SHA1: dee0cfad989377f20424b4bc44fdc860bf36a1c3
-SHA256: f9133a84c80836f101f1ab21ca0eabe8ecbc264ec99e2592be87d00489611f70
+Filename: debs/LedAudioDeb.deb
+Size: 2076136
+MD5sum: 0f2363c8c08b5d806128fba782e68e9d
+SHA1: 0ec643dd5f30fc26e55a457fcf47da7162aa359a
+SHA256: ec537d0170d1c04ccbfd177dd6cabb1b5f2a4060a8238d42e6e9e19bca42bd4d
 Section: Applications
 Description: LED audio visualizer app for iOS
 Author: Tomkids
-Icon: https://tomkidss.github.io/cydia/icons/ledaudio.png
+Icon: http://tomkidss.github.io/cydia/icons/ledaudio.png
 Name: LED Audio
 
 Package: com.modmyi.serioussbsettingshd
@@ -1137,31 +1136,29 @@ Name: sbsettingstoggles
 Sponsor: thebigboss.org <http://thebigboss.org>
 
 Package: tomkids.ChatGPT
-Version: 31.0.2
+Version: 31.0.2-5
 Architecture: iphoneos-arm
 Maintainer: Tomkids
-Depends: firmware (< 9.0)
-Filename: debs/tomkids.ChatGPT_31.0.2_iphoneos-arm.deb
-Size: 3550058
-MD5sum: 68617363ac9b084cd8d5943e81e6edf5
-SHA1: 560e5ae1f64736074fd2d01a26c9a167212eabce
-SHA256: a4622040a4147b390da1d5da37bb758caa8eb78bbc431ca506caf30c8dffb4e9
+Filename: debs/ChatGPT.deb
+Size: 3550040
+MD5sum: de7615cad764466afa2c323d8a2615fc
+SHA1: 501add0d020885d6e4e54a02f3839d109ff288d4
+SHA256: df6347326aee80b555a8ec32a6959d987dda8ec7ca1b5fac2177d58f25fe6df6
 Section: Applications
 Description: Chat GPT app for Low iOS
 Author: Tomkids
-Icon: https://tomkidss.github.io/cydia/icons/chatgpt.png
+Icon: http://tomkidss.github.io/cydia/icons/chatgpt.png
 Name: ChatGPT
 
 Package: tomkids.OldTikTokCN
-Version: 3.1.3
+Version: 3.1.3-5
 Architecture: iphoneos-arm
 Maintainer: Tomkids
-Depends: firmware (< 9.0)
-Filename: debs/tomkids.oldTikTokCN_3.1.3-1_iphoneos-arm.deb
-Size: 509344
-MD5sum: 39058016e7431cd89cce352407b5806d
-SHA1: 04b08d016bc3c6119f6ee41922e8f3beb331fc68
-SHA256: 8a4d6eec7ea0c65e15b3d991c1e20028e1bde828e23e6863ed878d63449648cb
+Filename: debs/OldTikTokCN.deb
+Size: 509326
+MD5sum: a300b43b71fa144ce43275f21c0b3eb1
+SHA1: 5bfeffb6d6be3ebff3757c6aaa3155fcbe190a11
+SHA256: 1bcf422fcf23a87d5e21c2ef628aaaf5f0793d35396289a67000288c70a7f1c9
 Section: Applications
 Description: TikTok CN app for Low iOS
 Author: Tomkids
@@ -1169,15 +1166,14 @@ Icon: https://tomkidss.github.io/cydia/icons/oldtiktokcn.png
 Name: OldTikTokCN
 
 Package: tomkids.facebook
-Version: 11.0
+Version: 11.0-5
 Architecture: iphoneos-arm
 Maintainer: Tomkids
-Depends: firmware (< 9.0)
-Filename: debs/tomkids.facebook_11.0_iphoneos-arm.deb
-Size: 40285646
-MD5sum: 05829b96702eb2d40fecec0407d3c49d
-SHA1: bf7d784bf7d7a1b53ec7857c36f67323c425bb11
-SHA256: efc8c37c705da4b4652df52a8244c20d59639d177de955c2563490e678fe50d1
+Filename: debs/FaceBook.deb
+Size: 40285630
+MD5sum: a12cce8ae9af71a0faf8a6bd11d04318
+SHA1: e1a1964ff1e8ac14e636466716a45bf04ec35572
+SHA256: 510901a5230abb96254a341938185b9f61af9d2716a2c30d629e4d4ba9a91989
 Section: Applications
 Description: FaceBook app for Low iOS
 Author: Tomkids
@@ -1264,48 +1260,30 @@ Author: Tomkids
 Icon: https://tomkidss.github.io/cydia/icons/nhaccuatui.png
 Name: NhacCuaTui
 
-Package: tomkids.ticktok
-Version: 1.0
+Package: tomkids.nhaccuatui.lite
+Version: 5.3.1
 Architecture: iphoneos-arm
-Maintainer: Clone by Tomkids
-Depends: firmware (< 8.0)
-Filename: debs/tomkids.ticktock_1.0_iphoneos-arm.deb
-Size: 8199882
-MD5sum: 93f1f85ec243f6f2e4c9d09e64aaa9de
-SHA1: c7a4ee8bd2a5fbecaba9cd65fd5fc915b632cfe1
-SHA256: 2811d5a27f57ace4cb2b59e119f410643d071e5126d862bcab9fea5e5af7f6ae
+Maintainer: Tomkids
+Filename: debs/NhacCuaTui_Lite.deb
+Size: 8676742
+MD5sum: 250e6af81d95d87f5d39815b8608b0fe
+SHA1: c51007420ff6c5bbb1b76ca5971a9943fdfe52bd
+SHA256: 46240cacd1b91ca7dc51a41f65f55d6ac2ca74b7fa1fb01f1d579ef52b09ab89
 Section: Applications
-Description: TikTok app for Low iOS
-Author: TikTok
-Icon: http://tomkidss.github.io/cydia/icons/tiktokios6.png
-Name: TikTok_Cookie
-
-Package: tomkids.ticktok
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: Clone by Tomkids
-Depends: firmware (< 8.0)
-Filename: debs/tomkids.ticktock_cookie_1.0_iphoneos-arm.deb
-Size: 8199882
-MD5sum: 93f1f85ec243f6f2e4c9d09e64aaa9de
-SHA1: c7a4ee8bd2a5fbecaba9cd65fd5fc915b632cfe1
-SHA256: 2811d5a27f57ace4cb2b59e119f410643d071e5126d862bcab9fea5e5af7f6ae
-Section: Applications
-Description: TikTok app for Low iOS
-Author: TikTok
-Icon: http://tomkidss.github.io/cydia/icons/tiktokios6.png
-Name: TikTok_Cookie
+Description: Nhạc của tui cho IOS thấp
+Author: Tomkids
+Icon: https://tomkidss.github.io/cydia/icons/nhaccuatuilite.png
+Name: NhacCuaTui Lite
 
 Package: tomkids.ticktok-ios6
-Version: 1.0
+Version: 2.0-5
 Architecture: iphoneos-arm
 Maintainer: Clone by Tomkids
-Depends: firmware (< 8.0)
-Filename: debs/tomkids.ticktock-ios6_1.0_iphoneos-arm.deb
-Size: 9322592
-MD5sum: ab07fae06d1f54a283bc7c43713b5a48
-SHA1: 2347351a4ac603d29f196debd3ae945982a6375d
-SHA256: 91590b013a337387fb9e6606e3503d77be11f478192b16cc23ff5faa7eaa9d03
+Filename: debs/TikTok_IOS6.deb
+Size: 547326
+MD5sum: 08d42534c2419f66819208388b1590d7
+SHA1: 49d142f085210dab3e0f9604898e98b9b13231ac
+SHA256: 385308a6fc6eeb95c4766f32870833581e5304d3435daa59ad634f06ff879700
 Section: Applications
 Description: TikTok app for Low iOS
 Author: TikTok
@@ -1313,15 +1291,14 @@ Icon: http://tomkidss.github.io/cydia/icons/tiktokios6.png
 Name: TikTok
 
 Package: tomkids.ticktok.cookie
-Version: 1.0-1
+Version: 1.0-5
 Architecture: iphoneos-arm
 Maintainer: TikTok
-Depends: firmware (< 8.0)
-Filename: debs/tomkids.ticktok.cookie_1.0-1_iphoneos-arm.deb
-Size: 8202844
-MD5sum: 85cd0431236b6d91706791efee7aaf2e
-SHA1: 3ffe12a199aaabc4e07d33ab5a8931fa81e739c9
-SHA256: 24a02b7d6fab9df99d04f8d1ab678e85a9374ecd6094b78ae3718362221c21ba
+Filename: debs/TikTok_Cookie.deb
+Size: 8200658
+MD5sum: 835cfa205abc98c91aa0ceaecaf47432
+SHA1: 2a59045f5da2135fed116013255712c5bfcfe2c4
+SHA256: 36caa548ea7a935fdb26c56d3d8bdfb487358f9ad703cfe3b8c8c1d39edc8505
 Section: Applications
 Description: TikTok app fix for Low iOS
  TikTok phiên bản đã fix dành cho iOS thấp (iOS 6/7/8).
@@ -1346,8 +1323,6 @@ Description: TikTok app fix for Low iOS
  - Mở trình duyệt → đăng nhập TikTok Web
  - Dùng DevTools (F12) → tab Application → Cookies
  - Copy giá trị cookie (sessionid hoặc toàn bộ)
- - Hoặc copy cookie sẵn này:
- _ttp=3CDCH9ngGRxkaduGBlwolFi5VJY; tt_chain_token=n/TN79LlO67uQWUM1UZwCg==; x-web-secsdk-uid=635e9009-b0c7-4dfc-b330-576a46074a17; tiktok_webapp_theme_source=auto; tiktok_webapp_theme=light; g_state={"i_l":0,"i_ll":1777627719644,"i_b":"iN6ltYuLWa2MQBYOxwp4zud0TXRYkuC9agxfX8S07Ko","i_e":{"enable_itp_optimization":0},"i_et":1777627719632}; s_v_web_id=verify_mompo2n2_dfvdunC5_7qH1_4YHO_ARMq_Ms787u0knXK2; multi_sids=7548968057387140114%3Ac40fe194993c24620daf2b319f2ca3c0; cmpl_token=AgQYAPOF_hfkTtK4_bzUMWYdK_OV6MhumP-QDmCnig0; passport_auth_status=3029085c0aee6ca7dc2cd4b6986765f0%2C; passport_auth_status_ss=3029085c0aee6ca7dc2cd4b6986765f0%2C; sid_guard=c40fe194993c24620daf2b319f2ca3c0%7C1777627757%7C15552000%7CWed%2C+28-Oct-2026+09%3A29%3A17+GMT; uid_tt=70aee4193780c5eb0eef2a1417aeba7928a1cd0ca1b3c4de4f7483ee584fa0b9; uid_tt_ss=70aee4193780c5eb0eef2a1417aeba7928a1cd0ca1b3c4de4f7483ee584fa0b9; sid_tt=c40fe194993c24620daf2b319f2ca3c0; sessionid=c40fe194993c24620daf2b319f2ca3c0; sessionid_ss=c40fe194993c24620daf2b319f2ca3c0; tt_session_tlb_tag=sttt%7C4%7CxA_hlJk8JGINrysxnyyjwP_________zPUJU94hyNrk2frillHvC1RvZ19DRcDg6jp_He0G7fhw%3D; sid_ucp_v1=1.0.1-KGRjOTEzNzVjNTY0ZDNiYzY3MTAzN2NkOGIwZDI1ZTUwZTI2MTUxMjgKIQiSiNPKu87U4WgQ7eTRzwYYswsgDDClpY3GBjgIQBJIBBADGgNzZzEiIGM0MGZlMTk0OTkzYzI0NjIwZGFmMmIzMTlmMmNhM2MwMk4KIJPrNHqSE4ttJMnW_tQ1YZ9musqUKq8Kvrjx_dRw9CG_EiAfXwyt6-UVlgbpyftUqK5XnFier7eoRGhBHIwr9OCs1xgDIgZ0aWt0b2s; ssid_ucp_v1=1.0.1-KGRjOTEzNzVjNTY0ZDNiYzY3MTAzN2NkOGIwZDI1ZTUwZTI2MTUxMjgKIQiSiNPKu87U4WgQ7eTRzwYYswsgDDClpY3GBjgIQBJIBBADGgNzZzEiIGM0MGZlMTk0OTkzYzI0NjIwZGFmMmIzMTlmMmNhM2MwMk4KIJPrNHqSE4ttJMnW_tQ1YZ9musqUKq8Kvrjx_dRw9CG_EiAfXwyt6-UVlgbpyftUqK5XnFier7eoRGhBHIwr9OCs1xgDIgZ0aWt0b2s; store-idc=alisg; store-country-code=vn; store-country-code-src=uid; tt-target-idc=alisg; tt-target-idc-sign=KqvID1UYN7vEoDdUR2lP948QAty2UKXQI1I6QEevAyimo9el4OnaMSVtNYeWnEmpQ5Ui4-csp6QTF3FpoaFiORyDVs4UuRUGLTHgto8-kl4tGZMDuZDMX66PoaPZHj8APsvDjL-ffo5t_hrCqZacCdL77SKN47i6WE7K7jau2ifazZQ8W6hJmTOm_SgKAb5U0l3tO0Bdv8zowNrSns_sgM1oIaW4zYMkI1Ic-cFmwwmhKvH8Takd0rWBA7Z3-Oy-RAh_6hUAXhUsJlI6ZUEOApXvsIYIkOXBBgAspEq_7f4nQjugFRIVLpGMKjz7H5Yf4iEMtagpm-esns_Nqns5_rmO_bSVLRa7QpEU1EO9SwhzMml4vDed8h7UkIWyfk30g6ulezNPKCQGbM_kjEaBRy2NTh3dLn4Fj1LH7tx8YxoPOCCqS6TWBKmpN1GfgNR3xPSe2cUr1uRGnPfhkA8U-jTuSw_YQRnz5fSkiLBsdPGn8rCIWqMMEmeXo0AlOvuV; last_login_method=google; tt_ticket_guard_has_set_public_key=1; perf_feed_cache={%22expireTimestamp%22:1778230800000%2C%22itemIds%22:[%227628226801042541831%22%2C%227623794007910518024%22%2C%227631067497487289621%22]}; tt_csrf_token=F4E6mMDK-1PX33G0ieim1O6NeO9BWuetb7Zo; passport_fe_beating_status=true; ttwid=1%7CShrc4DxPgXIn90f0nXazEcwZC97cdqUv3gfmJqCbBGU%7C1777627942%7C1171615d57b517456b3ed59f8f04ad8757297c8e6e7068aeb4dada02c0ba52f0; store-country-sign=MEIEDDA4ZBm7z80d6z5iqgQgX5kT4wL9PFLMHYb_QOiXhFDhtWHUw7-VQrmJ5a6ihaYEEDh8I_qigAEL27ydMu95vBM; odin_tt=0746dcaf425ea5ddd51b143feab6e8ea7166775535e35df44e4765e3a7dccc2cda3a1331f6b6fb96a70d4c81d57ea4fa755456233d752ddba35d1ef228fe004fcc5e9b176f8c0c0d6aa078dd124e6871; msToken=ftz0qFqhe_eNYgbK1FWx1KM70NwdHBBM6LABn2PAktDf4dB_bwjZ1UeoGThQSf3AnRfgA1PmPCfUtoeoY7srtRcNcZV2NlL5v-3dReqM8FHz0AYDWKdmMAC5yAbf4klXrppulSjGKw_Xfrh9amR1nU8e; msToken=hYjymO83VcAlv-oAGoZN_dWEWm0jHW-Zz42R-FAM5KUdNrFEQhxdHl-vtw5yW3TfM2EwHTs8nZF6Dekru5v3YO1LPC3495HvIkZzBlY9lHQyKk_ZT44yCHSl-JrgoEd-Gfj2oGBF5kihRxhM1nthHp8w
  .
  Cách sử dụng:
  - Mở file session.txt trong app (nếu có)
@@ -1363,37 +1338,20 @@ Author: TikTok
 Icon: http://tomkidss.github.io/cydia/icons/tiktokios6.png
 Name: TikTok_Cookie
 
-Package: tomkids.ticktokfixed
-Version: 1.0
+Package: tomkids.tiktokfix
+Version: 2.0-2
 Architecture: iphoneos-arm
 Maintainer: Fix by TuanEm
-Depends: firmware (<= 8.0)
-Filename: debs/tomkids.ticktokfixed_1.0_iphoneos-arm.deb
-Size: 20342476
-MD5sum: 78bd4d008af967638b0bb67a79ec3f6c
-SHA1: 77680030c6e6f3c271840d01cc6828c96cd3462e
-SHA256: 7e5d27a673ef0077386252c5a6cd6ba9b0314546ccd6ceaaadb1be3252c55e72
+Filename: debs/TikTok_Fix.deb
+Size: 20342678
+MD5sum: 3184769fa9629b47e3a172b2af908698
+SHA1: 98f0759d9bcfdfc7314e3a554416c08c99dd0bd0
+SHA256: 7fa89c6e998113b1e0b18e6552c0393752243b97979fc3551f5503592ba08401
 Section: Applications
 Description: TikTok app fix for Low iOS
 Author: Fix by TuanEm
 Icon: http://tomkidss.github.io/cydia/icons/tiktokios6.png
-Name: TikTok_Fixed
-
-Package: tomkids.ticktokfixed
-Version: 2.0
-Architecture: iphoneos-arm
-Maintainer: Fix by TuanEm & Tomkids
-Depends: firmware (>= 5.0)
-Filename: debs/tomkids.ticktokfixed_2.0_iphoneos-arm.deb
-Size: 20342664
-MD5sum: f7e736d870c2eb073af1a1bc9598e50a
-SHA1: 84392465af785170665255b1005bf9517d5b5622
-SHA256: cffc6afeebb5cb93fc654fb23ac3c2e936f0e3cda010b5238bd393048d8492f7
-Section: Applications
-Description: TikTok app fix for Low iOS
-Author: Fix by TuanEm
-Icon: http://tomkidss.github.io/cydia/icons/tiktokios6.png
-Name: TikTok_Fixed
+Name: TikTok Fix
 
 Package: tomkids.tiktokrun
 Version: 2.0-1
@@ -1414,32 +1372,46 @@ Package: tomkids.youtube
 Version: 1.3.0
 Architecture: iphoneos-arm
 Maintainer: Build tweak by Tomkids
-Depends: firmware (<= 8.4.1)
-Filename: debs/tomkids.youtube_1.3.0_iphoneos-arm.deb
-Size: 6887266
-MD5sum: 6b2ea3da0b16e77123d850bd199205b8
-SHA1: fb5d154295cc98c72d54060a128f96c1da1e1798
-SHA256: 92441749f20646f3948b646d6d517cf64a86a9dba86905d835f23f661e690ed4
+Filename: debs/Youtube1.3.0.deb
+Size: 6887240
+MD5sum: 899c4decd85b2e801280be5922147acb
+SHA1: 3334b9b6bd56fb24a7778a8458ba8d6d7165e628
+SHA256: a5c6e0a80ae2c6b2ef66f169b79c527b9a56677ef31e873a278c509b97a93e5e
 Section: Applications
 Description: Youtube app for Low iOS
  Luu y: Muon chay duoc Ytb nay thi can cai them tweak tubereplacer_1.0.4.3 nua nhe
 Author: Build app to tweak by Tomkids
 Icon: http://tomkidss.github.io/cydia/icons/youtube.png
 
-Package: tomkids.youtube1.3.0
-Version: 1.3.0
+Package: tomkids.youtube2.0.0
+Version: 2.0.0
 Architecture: iphoneos-arm
-Maintainer: Tomkids
-Depends: firmware (<= 8.4.1)
-Filename: debs/tomkids.youtube1.3.0_1.3.0_iphoneos-arm.deb
-Size: 6887192
-MD5sum: a11b6a0eadc88d13c19f923e8f7280d5
-SHA1: f94c9a1cc7423d9507323bfd3ac73f2f3bcba5fd
-SHA256: d46254f6942584ade000cc69ead53c4cb28c3f89606bff3343e4bd7dad6d08f3
+Maintainer: Build tweak by Tomkids
+Filename: debs/Youtube2.0.0.deb
+Size: 9531048
+MD5sum: b93d3f8ff076c77361272f2e9b090e4d
+SHA1: fc149b3beda4c2d9fb788d666f15037d73a7c372
+SHA256: bb314fe1f14c1d5fdab60fb42c834a0e1c9de87678868c60423a99ec1afd25e2
 Section: Applications
-Description: Youtube app for Low iOS
-Author: Tomkids
+Description: Youtube 2.0.0 for Low iOS
+ Luu y: Muon chay duoc Ytb nay thi can cai them tweak tubereplacer_1.0.4.3 nua nhe
+Author: Build app to tweak by Tomkids
 Icon: http://tomkidss.github.io/cydia/icons/youtube.png
+
+Package: tomkids.zingmp3
+Version: 3.2.1
+Architecture: iphoneos-arm
+Maintainer: Zing
+Filename: debs/ZingMP3.deb
+Size: 4816782
+MD5sum: 61cc7219aedfc7e40ac1175ff5f6bc3f
+SHA1: 04831eb33c4be7a3b1ace8073e8d1144a02dcb3c
+SHA256: 91671d4162c7f8a6f6c296ec01e21f5e3ec0ec851d5482d3b8335c2db0578ccf
+Section: Applications
+Description: App Zing MP3
+Author: Build app to tweak by Tomkids
+Icon: http://tomkidss.github.io/cydia/icons/zingmp3.png
+Name: Zing MP3
 
 Package: uk.invoxiplaygames.checkmatestore
 Version: 1.2
