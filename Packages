@@ -1371,21 +1371,6 @@ Author: Fix by TuanEm
 Icon: http://tomkidss.github.io/cydia/icons/tiktokios6.png
 Name: TikTok Fix
 
-Package: tomkids.tiktokrun
-Version: 2.0-1
-Architecture: iphoneos-arm
-Maintainer: Fix by TuanEm & Tomkids
-Filename: debs/TikTok_Run.deb
-Size: 20344140
-MD5sum: 8d3408a9eb3e4d0a19a0e23f81c06080
-SHA1: f35262bf6e19f807586873cc283d9545508d5c31
-SHA256: 7e93723333cc33cf377c4f59c35f0c9f91cdf36d93681bc7152c33b2ab9db730
-Section: Applications
-Description: TikTok app fix for Low iOS
-Author: Fix by TuanEm
-Icon: http://tomkidss.github.io/cydia/icons/tiktokios6.png
-Name: TikTok Cookie Edition
-
 Package: tomkids.youtube1.3.0
 Version: 1.3.0-5
 Architecture: iphoneos-arm
