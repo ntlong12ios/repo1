@@ -330,6 +330,30 @@ Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 4712
 Depends: mobilesubstrate, firmware (>= 5.0), firmware (<< 7.0)
 Conflicts: app.weiphone.jinshan.kbatterydoctorpro, app.weiphone.myrepospace.oyoung.guan, app.weiphone.ijinshan.kbatterydoctorpro, com.ijinshan.kbatterydoctorpro, com.ijinshan.kbatterydoctorpro.universal, com.myrepospace.oyoung.guan, kbatterydoctorpro.appvv
+Filename: debs/com.ijinshan.kbatterydoctorpro.universal_4.6.1-11_iphoneos-arm.deb
+Size: 3061322
+MD5sum: 2a9e30d319b3109977621ae167273c18
+SHA1: cf38635d7bdded30a93390a1262ade27f3786dce
+SHA256: 3d0fb10836e31bb288b4dd51aa2d5c05080f98b3a27e5e8e7e2dd78b1ef1a74e
+Section: Tweaks
+Priority: optional
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=batterydoctorprouniversalDp
+Description: monitor & optimize battery, system toggles
+Tag: purpose::extension
+Author: Kingsoft Security <app@ijinshan.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=batterydoctorprouniversalDp
+Dev: kingsoftsecurity
+Icon: file:///Applications/kBatteryDoctor.app/icon.png
+Name: BatteryDoctorPro
+Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.ijinshan.kbatterydoctorpro.universal
+Version: 4.6.1-11
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 4712
+Depends: mobilesubstrate, firmware (>= 5.0), firmware (<< 7.0)
+Conflicts: app.weiphone.jinshan.kbatterydoctorpro, app.weiphone.myrepospace.oyoung.guan, app.weiphone.ijinshan.kbatterydoctorpro, com.ijinshan.kbatterydoctorpro, com.ijinshan.kbatterydoctorpro.universal, com.myrepospace.oyoung.guan, kbatterydoctorpro.appvv
 Filename: debs/tomkids.kbatterydoctorpro.universal_4.6.1-11_iphoneos-arm.deb
 Size: 3061312
 MD5sum: f80aeb25dd05d44bf7b0f5754ccfbfed
