@@ -1529,6 +1529,20 @@ Author: Tomkids
 Icon: https://tomkidss.github.io/cydia/icons/nhaccuatuilite.png
 Name: NhacCuaTui Lite
 
+Package: tomkids.soundwave
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Build tweak by Tomkids
+Filename: debs/soundwave.deb
+Size: 1113080
+MD5sum: c7ef8fbbf5ac4d92c2b3c3951486b2b4
+SHA1: 8e20f15d745779b8f0a7e6cd3b519a2453494b7c
+SHA256: 02965cfcb89d40c3424f9aba110a31cfedf78d418733a0121795a60cedb8cd0a
+Section: Applications
+Description: soundwave 1.0.0 for Low iOS
+Author: Build app to tweak by Tomkids
+Icon: http://tomkidss.github.io/cydia/icons/SoundWave.png
+
 Package: tomkids.ticktok-ios6
 Version: 2.0-5
 Architecture: iphoneos-arm
