@@ -151,26 +151,6 @@ Depiction: http://cydia.skyglow.es/depictions/com.skyglow.tuberepair/depictions/
 Icon: file:///Library/Application%20Support/bag.xml.tuberepair/TubeRepair-Icon.png
 Name: TubeRepair [BETA]
 
-Package: ca.adrien.appdrop
-Version: 2.0
-Architecture: iphoneos-arm
-Maintainer: Adrien Ruest-Lorquet
-Installed-Size: 2428
-Depends: firmware (>= 5.0), net.angelxwind.appsyncunified | com.linusyang.appsync, com.autopear.installipa | ai.akemi.appinst
-Filename: debs/ca.adrien.appdrop_2.0_iphoneos-arm.deb
-Size: 1562812
-MD5sum: 2c002d0d9578bfde9c587d06fb514022
-SHA1: 27e1f1c34092d8f3b94f12d8965703eadcde35c1
-SHA256: 8419111a0c661249d7b476dd9773dda25fce21757687cbbca5b1e5c71e555592
-Section: Utilities
-Homepage: https://github.com/AdrienRL1/AppDrop
-Description: Browse, search and install vintage iOS apps (iOS 5-10 era) from the IPA Archive (157k apps). Grounded AI assistant, device-aware suggestions, multilingual.
-Tag: compatible_min::ios5.0
-Author: Adrien Ruest-Lorquet
-Depiction: https://adrienrl1.github.io/cydia/depiction.html
-Icon: https://adrienrl1.github.io/cydia/PackageIcon.png
-Name: AppDrop
-
 Package: com.aoi.storefix
 Version: 1.0-6
 Architecture: iphoneos-arm
@@ -1555,10 +1535,10 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Build tweak by Tomkids
 Filename: debs/soundwave.deb
-Size: 1113080
-MD5sum: c7ef8fbbf5ac4d92c2b3c3951486b2b4
-SHA1: 8e20f15d745779b8f0a7e6cd3b519a2453494b7c
-SHA256: 02965cfcb89d40c3424f9aba110a31cfedf78d418733a0121795a60cedb8cd0a
+Size: 1113068
+MD5sum: a08ae3092a49d6487851039d6239d08d
+SHA1: 1f75e08e6508d4d41c63b6225d5abc1eef8b31cf
+SHA256: 42e6f9cfb467a0ff0b8dec49d2aab69eb5741cb42c7dbaf6ad3efc7ad51763b6
 Section: Applications
 Description: soundwave 1.0.0 for Low iOS
 Author: Build app to tweak by Tomkids
