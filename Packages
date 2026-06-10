@@ -452,6 +452,22 @@ Package: com.isoftru.bochs
 Version: 1.0.0-1
 Architecture: iphoneos-arm
 Maintainer: isoftcom.com <isoftteamsupport@gmail.com>>
+Filename: debs/bochs.deb
+Size: 36844432
+MD5sum: 2fc90234ca64aec8d45d14b938b722c9
+SHA1: a1aeb6638d3a14378b4eefca73e4e38ee1fb5275
+SHA256: b4b076aa5fe88dc2dad22b3da9a329043b5efbc3c4eefb96f57f45a0273fc382
+Section: System
+Homepage: http://isoftcom.com/
+Description: Run Windows 3.11 and Windows 95 on your iPhone. It's slow, but worked.
+Author: isoftcom.com <isoftteamsupport@gmail.com>
+Dev: isoftru
+Name: Bochs (Win95 for iPhone)
+
+Package: com.isoftru.bochs
+Version: 1.0.0-1
+Architecture: iphoneos-arm
+Maintainer: isoftcom.com <isoftteamsupport@gmail.com>>
 Filename: debs/com.isoftru.bochs_1.0.0-1_iphoneos-arm.deb
 Size: 36838638
 MD5sum: a3ba3f378dcbe1efeac6ca3362d52879
@@ -524,6 +540,21 @@ Version: 2.0.4
 Architecture: iphoneos-arm
 Maintainer: KJCracks <unknown@unknown.com>
 Depends: firmware (>= 6.0), firmware (<= 10.3.4)
+Filename: debs/com.kjcracks.clutch_2.0.4_iphoneos-arm.deb
+Size: 457648
+MD5sum: f87af3b9bb9d7c69c5a5b6290697a9b3
+SHA1: ec6feae66de70bd39a1bbedea50b13dce5520720
+SHA256: d4a5bd485ec8cec21be0d9e9301a2952a5798d1f62a96b50f6ef7e99e82dbd97
+Section: Terminal Support
+Description: Clutch is a high-speed iOS decryption tool. It is used for decrypting apps currently installed and usable on the device.
+Author: KJCracks <unknown@unknown.com>
+Name: Clutch 2.0.4
+
+Package: com.kjcracks.clutch
+Version: 2.0.4
+Architecture: iphoneos-arm
+Maintainer: KJCracks <unknown@unknown.com>
+Depends: firmware (>= 6.0), firmware (<= 10.3.4)
 Filename: debs/tomkids.clutch_2.0.4_iphoneos-arm.deb
 Size: 457648
 MD5sum: f87af3b9bb9d7c69c5a5b6290697a9b3
@@ -533,6 +564,23 @@ Section: Terminal Support
 Description: Clutch is a high-speed iOS decryption tool. It is used for decrypting apps currently installed and usable on the device.
 Author: KJCracks <unknown@unknown.com>
 Name: Clutch 2.0.4
+
+Package: com.linusyang.ytbnoad
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: Linus Yang
+Installed-Size: 344
+Depends: mobilesubstrate
+Conflicts: me.alfhaily.adblockforyoutube
+Filename: debs/com.linusyang.ytbnoad_0.1_iphoneos-arm.deb
+Size: 50654
+MD5sum: 39e43deaa545fc126991b2fe2343d4c4
+SHA1: 848ecf5a0343fe1ac5e4b1cda292d2485938f2a5
+SHA256: 58801323e9993fa855e063a887ed63f4b84ca966a6ca83459b3d5ca4e342843f
+Section: Tweaks
+Description: remove ads in Youtube app
+Author: Linus Yang
+Name: YoutubeNoAd
 
 Package: com.linusyang.ytbnoad
 Version: 0.1
@@ -716,6 +764,25 @@ Depiction: https://poomsmart.github.io/repo/depictions/ytlegacy.html
 Name: YouTube Legacy
 Sileodepiction: https://poomsmart.github.io/repo/sileodepictions/ytlegacy.json
 
+Package: com.ravirajm.torch
+Version: 1.5.2
+Architecture: iphoneos-arm
+Maintainer: poetic_folly <poetic_folly@modmyi.com>
+Depends: mobilesubstrate
+Filename: debs/com.ravirajm.torch_1.5.2_iphoneos-arm.deb
+Size: 34688
+MD5sum: a77b7ce2b9388d5a7c9d12e663df52c5
+SHA1: 8cf8ef240cf89a83bbd25edcbc2b6b3566695e51
+SHA256: d0adfbf3b43136cc8a5b98cdff3ed18ef5b3ec7662fbb163586da98409b3c73f
+Section: Tweaks
+Priority: extra
+Homepage: http://modmyi.com/info/torch.php
+Description: Toggle LED Flash from the LockScreen.
+Author: rvirajm <rvirajm@gmail.com>
+Depiction: http://modmyi.com/info/torch.d.php
+Name: Torch
+Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
+
 Package: com.saurik.substrate.safemode
 Version: 0.9.6001
 Architecture: iphoneos-arm
@@ -849,6 +916,22 @@ Version: 1.0-1+debug
 Architecture: iphoneos-arm
 Maintainer: tuanem
 Installed-Size: 1444
+Filename: debs/com.tuanem.shshchecker_1.0_iphoneos-arm.deb
+Size: 340310
+MD5sum: d893f5ffde5f8a14cbd3537d868f0e3b
+SHA1: e373d21046327e5ab5e7e07cad4fc05e246fc1a8
+SHA256: 6bbe1037e19f0ad951e7241617e549ffe4dc8bbb439d6c902d85c70d3e629d8a
+Section: System
+Description: check SHSH Blobs on Mterminal
+Tag: role::hacker
+Author: tuanem
+Name: SHSHchecker cli
+
+Package: com.tuanem.shshchecker
+Version: 1.0-1+debug
+Architecture: iphoneos-arm
+Maintainer: tuanem
+Installed-Size: 1444
 Filename: debs/tomkids.shshchecker_1.0_iphoneos-arm.deb
 Size: 340310
 MD5sum: d893f5ffde5f8a14cbd3537d868f0e3b
@@ -923,6 +1006,23 @@ Section: Tweaks
 Description: Background Playback for YouTube 1.0.0+
 Author: Tuanem
 Name: YTBackground
+
+Package: com.vsz.redeb
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: T.Herak <50dc856b@opayq.com>
+Depends: bash (>= 4.0.17-13), coreutils (>= 8.12-12p), grep (>= 2.5.4-3), sed (>= 4.1.5-7), gawk (>= 3.1.6-2p), apt7 (>= 0.7.25.3-6)
+Filename: debs/com.vsz.redeb_1.0.3_iphoneos-arm.deb
+Size: 3566
+MD5sum: df24b94e6e36d96231ffe49cb8a97cc7
+SHA1: a78d39ce50d219589fe0f1a85a5ddf06fd613291
+SHA256: 92946959e37e394db156fcee71d45526b50edbe0a07f19350f0e97e54a48d558
+Section: Utilities
+Priority: extra
+Description: Repackage any of your tweaks locally, without the need to download it from Cydia again. This is super usefull when there is an update of your until now perfectly working tweak in Cydia and you want to make a backup of the version installed. Normally you wouldn't be able to backup anything because it is possible to fetch only the most current version of your tweak and so you would be lost. Not anymore :)))
+Author: T.Herak <50dc856b@opayq.com>
+Depiction: https://wiety.github.io/cydia/depictions/?p=com.vsz.redeb
+Name: redeb
 
 Package: com.vsz.redeb
 Version: 1.0.3
@@ -1082,6 +1182,26 @@ Description: Don't install if you don't know what that is
 Author: winocm, xerub
 Name: kloader
 
+Package: kloader
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: axi0mX
+Depends: firmware (>= 4.0)
+Filename: debs/kloader_1.0.2_iphoneos-arm.deb
+Size: 12486
+MD5sum: fef541ee1d6b691b4e6b6b7f9b03c938
+SHA1: da518309bf316682f32d8d644413598902016c2d
+SHA256: a472328bf6e1d110b2a042679bce73a36a983f34e760fb4c0161c6f2dbbd0347
+Section: System
+Priority: optional
+Homepage: https://github.com/axi0mX/ios-kexec-utils/blob/master/kloader.c
+Description: NEW IMPROVED KLOADER
+ armv7 support for iOS 4.0-9.3.5 (requires tfp0 kernel patch)
+ arm64 support for iOS 7.0-8.4.1 (requires tfp0 kernel patch and patched LLB/iBoot/iBSS/iBEC)
+ will automatically wake up device after 2 seconds (no button press required, should work 99.9% of the time)
+Author: winocm, xerub, axi0mX
+Name: kloader
+
 Package: ldid
 Version: 1:1.2.1
 Architecture: iphoneos-arm
@@ -1136,6 +1256,21 @@ Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: Stella Diaz (electimon
 Name: Veteris Helper
+
+Package: neofetch
+Version: 7.1.0.2
+Architecture: iphoneos-arm
+Maintainer: KawaiiZenbo
+Depends: coreutils, gawk, grep, bash, coreutils-bin, system-cmds, darwintools
+Filename: debs/neofetch.deb
+Size: 86880
+MD5sum: 5321d5d7158571ce3ca54e8900d89fb6
+SHA1: 2d0f8ed382266bf162fc2830cc14cbf86a2efa86
+SHA256: 77a3518c53177917c094c601221967512c7a2edd3a304b47aa8c23ad22c175af
+Section: Terminal Support
+Description: A command-line system information tool written in bash 3.2+ from https://github.com/dylanaraps/neofetch, packaged for iOS
+Author: dylanaraps
+Name: neofetch
 
 Package: neofetch
 Version: 7.1.0.2
@@ -1376,6 +1511,26 @@ Author: Sam Bingner <maintainer@sbdhi.com>
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=preferenceloader2Data
 Dev: dustinhowett
 Name: PreferenceLoader
+
+Package: repo.biteyourapple.net.paragon
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Redenfire <redenfire@gmail.com>
+Depends: firmware (>= 6.0), mobilesubstrate, com.wynd.dreamboard
+Conflicts: com.zmaster.androidlockxt, repo.biteyourapple.net.androidlockxt
+Replaces: com.zmaster.androidlockxt, repo.biteyourapple.net.androidlockxt
+Filename: debs/paragon_1.0.0_iphoneos-arm.paragon.deb
+Size: 2113572
+MD5sum: 78a926860ca9ac8f47e4204c62cb7a88
+SHA1: 87528a1f1b006fd909650f8d5ef2b54f6e149920
+SHA256: 03c09adece479bebbd4bf014321b721c8e2f6fecf8712ae0c3fdbbb7f5bb5862
+Section: BYA Themes
+Homepage: http://www.biteyourapple.net
+Description: Paragon is the most realistic Windows Phone 8 theme for your iPhone!
+Author: BYA Repository
+Depiction: http://repo.biteyourapple.net/depiction/dep.php?name=paragon
+Name: Paragon
+Sponsor: biteyourapple <http://www.biteyourapple.net>
 
 Package: repo.biteyourapple.net.paragon
 Version: 1.0.0
