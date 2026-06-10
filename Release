@@ -3,6 +3,7 @@ Label: Tomkids Repo
 Suite: stable
 Version: 2.0
 Codename: ios
-Architectures: iphoneos-arm
+Architectures: iphoneos-arm iphoneos-arm64
 Components: main
 Description: Kho ứng dụng & tweak iOS cổ của Tomkids
+Icon: file://CydiaIcon.png
