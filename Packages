@@ -73,6 +73,22 @@ Description: Cài đặt app chơi cờ Caro
 Author: Caro_1.0
 Name: Caro1.0
 
+Package: Tomkids.Snake
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: Unknown
+Filename: debs/Tomkids.Snake_2.0_iphoneos-arm.deb
+Size: 266354
+MD5sum: 5ce5a193ed173ef2ab79c55ab42cbcd4
+SHA1: b09e07e9ba41c0a15efd2d6cf9d3b6427c0288d1
+SHA256: f89376293d2ada64857725e8de21fc2b52a46948dc983a0d93cf37cc2240fd7b
+Section: Applications
+Description: Mô tả ngắn gọn về app/tweak
+ .
+ Repackaged via Tomkids' Cydia Repo Manager
+Author: Converted by Tomkids
+Name: Snake
+
 Package: Tomkids.bowman
 Version: 1.2
 Architecture: iphoneos-arm
@@ -927,7 +943,7 @@ Package: com.phucnguyenvlog.tiktok
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: PhucNguyen
-Filename: debs/com.phucnguyenvlog.tiktok_1.0_iphoneos-arm.deb
+Filename: debs/tiktok_1.0_iphoneos-arm.deb
 Size: 8187800
 MD5sum: e9f5bf2e2de209aa620d7213bc207706
 SHA1: da64e8a607499ecdc015b3d662dc537916ac00c9
@@ -940,7 +956,7 @@ Package: com.phucnguyenvlog.youtube
 Version: 1.4.0
 Architecture: iphoneos-arm
 Maintainer: PhucNguyen
-Filename: debs/com.phucnguyenvlog.youtube_1.4.0_iphoneos-arm_modified.deb
+Filename: debs/youtube_1.4.0_iphoneos-arm_modified.deb
 Size: 7961000
 MD5sum: bebb4a6e1dd16e44bdc0b255c6c4e4ec
 SHA1: 8c3dab8a8222f1fb9c10333194d2a6d5feefd77f
