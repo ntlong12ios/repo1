@@ -105,6 +105,22 @@ Description: Mô tả ngắn gọn về app/tweak
 Author: Converted by Tomkids
 Name: Snake
 
+Package: Tomkids.TruyenVN
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Unknown
+Filename: debs/Tomkids.TruyenVN_1.0_iphoneos-arm.deb
+Size: 13267852
+MD5sum: a0ef111a7c8a20d112316bc1e77adc6b
+SHA1: 64574a6496381cb9e31034462abaf4951427101c
+SHA256: 4a3dcd06e5b090b8c5a8f7ce0f5b0b1d88ed02658c56b7f14dd6130856634487
+Section: Applications
+Description: Mô tả ngắn gọn về app/tweak
+ .
+ Converted by Tomkids
+Author: Unknown
+Name: Truyện Việt Nam
+
 Package: Tomkids.bowman
 Version: 1.2
 Architecture: iphoneos-arm
