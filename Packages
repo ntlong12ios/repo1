@@ -73,6 +73,22 @@ Description: Cài đặt app chơi cờ Caro
 Author: Caro_1.0
 Name: Caro1.0
 
+Package: Tomkids.DoVuiNgayTet
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Unknown
+Filename: debs/Tomkids.DoVuiNgayTet_1.0_iphoneos-arm.deb
+Size: 16030940
+MD5sum: 358e3271f46293e3fd8e10d8cf3a9393
+SHA1: 66cf00f75e8eae2f2fa9c7079293debe52e50ff9
+SHA256: 826f6900d92a54df67ef576392ba4d3d13142bfeb6503c0006674f4655dcac56
+Section: Applications
+Description: App vui
+ .
+ Converted by Tomkids
+Author: Converted by Tomkids
+Name: Do vui ngay tet
+
 Package: Tomkids.Snake
 Version: 2.0
 Architecture: iphoneos-arm
