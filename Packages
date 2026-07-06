@@ -89,6 +89,22 @@ Description: App vui
 Author: Converted by Tomkids
 Name: Do vui ngay tet
 
+Package: Tomkids.Fifa10
+Version: 1
+Architecture: iphoneos-arm
+Maintainer: Unknown
+Filename: debs/Tomkids.Fifa10_1_iphoneos-arm.deb
+Size: 63782036
+MD5sum: f517769ff82b536d8e7164cf8d329552
+SHA1: 9887ac75670f91f20e8b3f1fa4e709cd10283f9c
+SHA256: a96b09e22283a68eb86cdacd1eb8f587c117d3049612c192006487892a4614f3
+Section: Applications
+Description: Mô tả ngắn gọn về app/tweak
+ .
+ Converted by Tomkids
+Author: Converted ipa to deb by Tomkids's tool
+Name: FIFA 1O
+
 Package: Tomkids.Snake
 Version: 2.0
 Architecture: iphoneos-arm
