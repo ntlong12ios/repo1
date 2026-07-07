@@ -73,6 +73,23 @@ Description: Cài đặt app chơi cờ Caro
 Author: Caro_1.0
 Name: Caro1.0
 
+Package: Tomkids.DaoVang
+Version: 2.2
+Architecture: iphoneos-arm
+Maintainer: Unknown
+Filename: debs/Tomkids.DaoVang_2.2_iphoneos-arm.deb
+Size: 11376764
+MD5sum: 5c44ee9d8fc4a37dcc936e2a6549f9a3
+SHA1: 53661a84ae3276be60dff9168c540840ae5bbff4
+SHA256: 73d175b44b15fba4233f435eaf67ccd311a79db5ca90143cd330715e054269cb
+Section: Applications
+Description: Game Đào vàng dành cho IOS thấp
+ Converted from ipa to deb by Tomkids
+ .
+ Converted by Tomkids
+Author: Converted ipa to deb by Tomkids's tool
+Name: Đào vàng
+
 Package: Tomkids.DoVuiNgayTet
 Version: 1.0
 Architecture: iphoneos-arm
