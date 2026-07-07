@@ -73,6 +73,22 @@ Description: Cài đặt app chơi cờ Caro
 Author: Caro_1.0
 Name: Caro1.0
 
+Package: Tomkids.Chrome
+Version: 29.1547.11
+Architecture: iphoneos-arm
+Maintainer: Unknown
+Filename: debs/Tomkids.Chrome_29.1547.11_iphoneos-arm.deb
+Size: 16016282
+MD5sum: 0d9b486b7d3b7b125ccc1fdc74fea6a1
+SHA1: cfb1462fe8963f9f10dd040a8eab424c63706dc1
+SHA256: 74e8b19e89b17c44fe6b5bea88bff07ed1a265c105cf88b3282fd7f4437dbe1c
+Section: Applications
+Description: Google Chrome for low ios
+ .
+ Converted by Tomkids
+Author: Converted ipa to deb by Tomkids's tool
+Name: Chrome
+
 Package: Tomkids.DaoVang
 Version: 2.2
 Architecture: iphoneos-arm
@@ -106,6 +122,22 @@ Description: App vui
 Author: Converted by Tomkids
 Name: Do vui ngay tet
 
+Package: Tomkids.FLACPlayer
+Version: 1.8
+Architecture: iphoneos-arm
+Maintainer: Unknown
+Filename: debs/tomkids.flacplayer_1.8_iphoneos-arm.deb
+Size: 3370982
+MD5sum: 47185f9e85bd58206666a2fc87bc63d3
+SHA1: f3ec1ed39b970ee41696a341558399224b66a2c2
+SHA256: c7cdeee16de8e5c4cd75eadcfd86982548ecbe413e48c4542f609d1a1c3412d8
+Section: Applications
+Description: Music App for low ios
+ .
+ Converted by Tomkids
+Author: Converted ipa to deb by Tomkids's tool
+Name: FLAC Player
+
 Package: Tomkids.Fifa10
 Version: 1
 Architecture: iphoneos-arm
@@ -121,6 +153,66 @@ Description: Mô tả ngắn gọn về app/tweak
  Converted by Tomkids
 Author: Converted ipa to deb by Tomkids's tool
 Name: FIFA 1O
+
+Package: Tomkids.GoTV
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Unknown
+Filename: debs/Tomkids.GoTV_1.0_iphoneos-arm.deb
+Size: 20235134
+MD5sum: 5cb21be3d74e6411e8c9a510eb6fbd60
+SHA1: ca62d02f78e2c72583144896062d9209324eacc5
+SHA256: 44905ae65b4656439b752a8fef972e0a951343e686e9e3086aea8a932e8b6dae
+Section: Applications
+Description: TV app for IOS 8
+ .
+ Converted by Tomkids
+Author: Converted ipa to deb by Tomkids's tool
+Name: GoTV
+
+Package: Tomkids.Messenger
+Version: 2.7.2
+Architecture: iphoneos-arm
+Maintainer: Unknown
+Filename: debs/Tomkids.Messenger_2.7.2_iphoneos-arm.deb
+Size: 15391120
+MD5sum: c6d6b23876e18ae74b43ff0dffcb565c
+SHA1: 5e26a81411b4fee8167d568e866b3763c89e6864
+SHA256: 3923af30b4608c05d54138c64e108f1c2016989e95d713c6b469672c951c486a
+Section: Applications
+Description: App for low ios
+ .
+ Converted by Tomkids
+Author: Converted ipa to deb by Tomkids's tool
+Name: Messenger
+
+Package: Tomkids.NhacChuong.BonChuLam
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Unknown
+Filename: debs/Tomkids.NhacChuong.BonChuLam_iphoneos-arm.deb
+Size: 1035242
+MD5sum: c3aebb22900bc75b78f3102f1569f247
+SHA1: f22f42a9a61a70568273f5497f2440c48c30461a
+SHA256: 73cc4609c7ce4a36a46221628fb738eaf932236b47bd22b5ffca24f5587a2165
+Section: Ringtones
+Description: Nhạc chuông cho iOS
+Author: Unknown
+Name: Bốn Chữ Lắm
+
+Package: Tomkids.NhacChuong.CungVeTayBac
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Unknown
+Filename: debs/Tomkids.NhacChuong.CungVeTayBac_iphoneos-arm.deb
+Size: 579738
+MD5sum: 4bc46081b4861d8eb32544264f5e6b02
+SHA1: 8c58edee823485076077406e9ca9806cb4523e6f
+SHA256: dae6c7f34711f1be887aafe49a9f869a1abbb5bf8788ad1136a0a629d2090f0b
+Section: Ringtones
+Description: Nhạc chuông cho iOS
+Author: Unknown
+Name: Cùng về Tây Bắc
 
 Package: Tomkids.NhacChuong.GaiNghe
 Version: 1.0
@@ -149,6 +241,66 @@ Section: Ringtones
 Description: Nhạc chuông cho iOS
 Author: Unknown
 Name: Gió Lớn Đang Thổi Tuyết Lớn Đang Rơi
+
+Package: Tomkids.NhacChuong.ThamVienNgoai
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Unknown
+Filename: debs/Tomkids.NhacChuong.ThamVienNgoai_iphoneos-arm.deb
+Size: 857980
+MD5sum: d574eae34fe80e7a446844e329025a41
+SHA1: b4b03807405f7fdb96cc139528b1dbd81ac04eb5
+SHA256: ab4bcaca72d8472d4d52c54fe850180b541f8e504ff23f163d2df6eec1f7a364
+Section: Ringtones
+Description: Nhạc chuông cho iOS
+Author: Unknown
+Name: Thẩm Viên Ngoại
+
+Package: Tomkids.NhacChuong.XoXoMB
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Unknown
+Filename: debs/Tomkids.NhacChuong.XoXoMB_iphoneos-arm.deb
+Size: 938942
+MD5sum: 77e95b3caf943a4ea414139db8a897e9
+SHA1: 7ba2c548ad50a4aec813a593565c940982d05c8c
+SHA256: 41362d399349bbb8890bdf74005ecdae9412726cb8625a3cf872a76d865313b1
+Section: Ringtones
+Description: Nhạc chuông cho iOS
+Author: Unknown
+Name: Xổ xố Miền Bắc
+
+Package: Tomkids.OperaMini
+Version: 7.0.3.40701
+Architecture: iphoneos-arm
+Maintainer: Unknown
+Filename: debs/Tomkids.OperaMini_7.0.3.40701_iphoneos-arm.deb
+Size: 2907252
+MD5sum: 56a3c16721b2630ce62a12374952ea29
+SHA1: 2c8da56c3eb788c5fbe75d670da0c733236204a9
+SHA256: 9cb0bc23cb03c5102b281101462acce832c6f8d6e9dbd5ac3a0860377584f972
+Section: Applications
+Description: Opera mini for low ios
+ .
+ Converted by Tomkids
+Author: Converted ipa to deb by Tomkids's tool
+Name: Opera Mini
+
+Package: Tomkids.PvZ
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Unknown
+Filename: debs/Tomkids.PvZ_1.0_iphoneos-arm.deb
+Size: 35085114
+MD5sum: e438f49642e9f337ea3882f34b304f41
+SHA1: 583fc3ba23f0ad94d77e7d353fc164a1217689f5
+SHA256: bf4438d09786c302ee4e6364e8640fc1279677c5853a1ed4348351f424552d53
+Section: Applications
+Description: Game for low ios
+ .
+ Converted by Tomkids
+Author: Converted ipa to deb by Tomkids's tool
+Name: PvZ
 
 Package: Tomkids.Snake
 Version: 2.0
@@ -181,6 +333,22 @@ Description: Mô tả ngắn gọn về app/tweak
  Converted by Tomkids
 Author: Unknown
 Name: Truyện Việt Nam
+
+Package: Tomkids.ZingMp3
+Version: 3.2.1
+Architecture: iphoneos-arm
+Maintainer: Unknown
+Filename: debs/Tomkids.ZingMp3_3.2.1_iphoneos-arm.deb
+Size: 4808154
+MD5sum: 07955071d6cce838743a1993aba25314
+SHA1: dab26e4b71b188565cfae4578d20bdf0a00e38c7
+SHA256: 9083e9f9875ffe867e8cf756fb9d69bf1c4494f1e5d47b0f5251b582551faccc
+Section: Applications
+Description: Zing Mp3 for low ios
+ .
+ Converted by Tomkids
+Author: Converted ipa to deb by Tomkids's tool
+Name: Zing Mp3
 
 Package: Tomkids.bowman
 Version: 1.2
@@ -2346,22 +2514,6 @@ Description: FaceBook app for Low iOS
 Author: Tomkids
 Icon: http://tomkidss.github.io/cydia/icons/facebook.png
 Name: FaceBook
-
-Package: tomkids.flacplayer
-Version: 1.8
-Architecture: iphoneos-arm
-Maintainer: Tomkids
-Depends: firmware (< 9.0)
-Filename: debs/tomkids.flacplayer_1.8_iphoneos-arm.deb
-Size: 3377030
-MD5sum: 8f92c0d96f951e808c9a2ae7507c4b66
-SHA1: fd135f624f0f7e3e35e16e09b9396b0bebd241dd
-SHA256: 0892249e9b3559a77c1cd1e1f700c7c75486e4c429b6f008536b88dfa581c96d
-Section: Applications
-Description: FLAC Player app for Low iOS
-Author: Tomkids
-Icon: http://tomkidss.github.io/cydia/icons/flacplayer.png
-Name: FLAC Player
 
 Package: tomkids.iBooks
 Version: 3.1.3
