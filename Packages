@@ -2,7 +2,7 @@ Package: Tomkids.2010FIFAWORLDCUP
 Version: 1.0.2
 Architecture: iphoneos-arm
 Maintainer: Unknown
-Filename: debs/Tomkids.2010FIFAWORLDCUP_1.0.2_iphoneos-arm.deb
+Filename: debs/Tomkids..Game.FIFAWORLDCUP2010_1.0.2_iphoneos-arm.deb
 Size: 40382830
 MD5sum: e07376ac14abc0ed8d74ceb2f92b1992
 SHA1: 50a98dc83ebcc898d167b698e604e89b1fc03302
@@ -18,7 +18,7 @@ Package: Tomkids.AirHockey
 Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Unknown
-Filename: debs/Tomkids.AirHockey_1.1_iphoneos-arm.deb
+Filename: debs/Tomkids..Game.AirHockey_1.1_iphoneos-arm.deb
 Size: 1309656
 MD5sum: e50646eb95d99f9ff66296e79b197cb6
 SHA1: 4e841b5f0d43fcb4b2f2f347a74bde35f12a7e2b
@@ -34,7 +34,7 @@ Package: Tomkids.AvatarOfWar
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Unknown
-Filename: debs/Tomkids.AvatarOfWar_1.0_iphoneos-arm.deb
+Filename: debs/Tomkids..Game.AvatarOfWar_1.0_iphoneos-arm.deb
 Size: 9128096
 MD5sum: e2cdd32af9316fd40df186e25d391204
 SHA1: 1600e130d5384027354ad38c15ef61dcfc5fb51b
@@ -49,7 +49,7 @@ Package: Tomkids.Bricks4.2.1
 Version: 4.2.1
 Architecture: iphoneos-arm
 Maintainer: Unknown
-Filename: debs/Tomkids.Bricks4.2.1_4.2.1_iphoneos-arm.deb
+Filename: debs/Tomkids..Game.Bricks4.2.1_4.2.1_iphoneos-arm.deb
 Size: 18886330
 MD5sum: 971730c2557d95008f6880ef497e63c9
 SHA1: fd309a429810e76f532cda363089470f3c3d78c7
@@ -63,7 +63,7 @@ Package: Tomkids.Caro1.0
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Unknown
-Filename: debs/Tomkids.Caro1.0_1.0_iphoneos-arm.deb
+Filename: debs/Tomkids..Game.Caro1.0_1.0_iphoneos-arm.deb
 Size: 10020954
 MD5sum: 9c17dc373c4308414ce9fb6c80f18441
 SHA1: cd96093ca7ef57cd3f5bca489eb17ec9a30b1bfe
@@ -77,7 +77,7 @@ Package: Tomkids.Chrome
 Version: 29.1547.11
 Architecture: iphoneos-arm
 Maintainer: Unknown
-Filename: debs/Tomkids.Chrome_29.1547.11_iphoneos-arm.deb
+Filename: debs/Tomkids.App.Chrome_29.1547.11_iphoneos-arm.deb
 Size: 16016282
 MD5sum: 0d9b486b7d3b7b125ccc1fdc74fea6a1
 SHA1: cfb1462fe8963f9f10dd040a8eab424c63706dc1
@@ -93,7 +93,7 @@ Package: Tomkids.DaoVang
 Version: 2.2
 Architecture: iphoneos-arm
 Maintainer: Unknown
-Filename: debs/Tomkids.DaoVang_2.2_iphoneos-arm.deb
+Filename: debs/Tomkids..Game.DaoVang_2.2_iphoneos-arm.deb
 Size: 11376764
 MD5sum: 5c44ee9d8fc4a37dcc936e2a6549f9a3
 SHA1: 53661a84ae3276be60dff9168c540840ae5bbff4
@@ -110,7 +110,7 @@ Package: Tomkids.DoVuiNgayTet
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Unknown
-Filename: debs/Tomkids.DoVuiNgayTet_1.0_iphoneos-arm.deb
+Filename: debs/Tomkids.Game.DoVuiNgayTet_1.0_iphoneos-arm.deb
 Size: 16030940
 MD5sum: 358e3271f46293e3fd8e10d8cf3a9393
 SHA1: 66cf00f75e8eae2f2fa9c7079293debe52e50ff9
@@ -126,7 +126,7 @@ Package: Tomkids.FLACPlayer
 Version: 1.8
 Architecture: iphoneos-arm
 Maintainer: Unknown
-Filename: debs/tomkids.flacplayer_1.8_iphoneos-arm.deb
+Filename: debs/tomkids.App.Flacplayer_1.8_iphoneos-arm.deb
 Size: 3370982
 MD5sum: 47185f9e85bd58206666a2fc87bc63d3
 SHA1: f3ec1ed39b970ee41696a341558399224b66a2c2
@@ -142,7 +142,7 @@ Package: Tomkids.Fifa10
 Version: 1
 Architecture: iphoneos-arm
 Maintainer: Unknown
-Filename: debs/Tomkids.Fifa10_1_iphoneos-arm.deb
+Filename: debs/Tomkids..Game.Fifa10_1_iphoneos-arm.deb
 Size: 63782036
 MD5sum: f517769ff82b536d8e7164cf8d329552
 SHA1: 9887ac75670f91f20e8b3f1fa4e709cd10283f9c
@@ -158,7 +158,7 @@ Package: Tomkids.GoTV
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Unknown
-Filename: debs/Tomkids.GoTV_1.0_iphoneos-arm.deb
+Filename: debs/Tomkids.App.GoTV_1.0_iphoneos-arm.deb
 Size: 20235134
 MD5sum: 5cb21be3d74e6411e8c9a510eb6fbd60
 SHA1: ca62d02f78e2c72583144896062d9209324eacc5
@@ -174,7 +174,7 @@ Package: Tomkids.Messenger
 Version: 2.7.2
 Architecture: iphoneos-arm
 Maintainer: Unknown
-Filename: debs/Tomkids.Messenger_2.7.2_iphoneos-arm.deb
+Filename: debs/Tomkids.App.Messenger_2.7.2_iphoneos-arm.deb
 Size: 15391120
 MD5sum: c6d6b23876e18ae74b43ff0dffcb565c
 SHA1: 5e26a81411b4fee8167d568e866b3763c89e6864
@@ -302,7 +302,7 @@ Package: Tomkids.OperaMini
 Version: 7.0.3.40701
 Architecture: iphoneos-arm
 Maintainer: Unknown
-Filename: debs/Tomkids.OperaMini_7.0.3.40701_iphoneos-arm.deb
+Filename: debs/Tomkids.App.OperaMini_7.0.3.40701_iphoneos-arm.deb
 Size: 2907252
 MD5sum: 56a3c16721b2630ce62a12374952ea29
 SHA1: 2c8da56c3eb788c5fbe75d670da0c733236204a9
@@ -318,7 +318,7 @@ Package: Tomkids.PvZ
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Unknown
-Filename: debs/Tomkids.PvZ_1.0_iphoneos-arm.deb
+Filename: debs/Tomkids..Game.PvZ_1.0_iphoneos-arm.deb
 Size: 35085114
 MD5sum: e438f49642e9f337ea3882f34b304f41
 SHA1: 583fc3ba23f0ad94d77e7d353fc164a1217689f5
@@ -350,7 +350,7 @@ Package: Tomkids.TruyenVN
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Unknown
-Filename: debs/Tomkids.TruyenVN_1.0_iphoneos-arm.deb
+Filename: debs/Tomkids.App.TruyenVN_1.0_iphoneos-arm.deb
 Size: 13267852
 MD5sum: a0ef111a7c8a20d112316bc1e77adc6b
 SHA1: 64574a6496381cb9e31034462abaf4951427101c
@@ -366,7 +366,7 @@ Package: Tomkids.ZingMp3
 Version: 3.2.1
 Architecture: iphoneos-arm
 Maintainer: Unknown
-Filename: debs/Tomkids.ZingMp3_3.2.1_iphoneos-arm.deb
+Filename: debs/Tomkids.App.ZingMp3_3.2.1_iphoneos-arm.deb
 Size: 4808154
 MD5sum: 07955071d6cce838743a1993aba25314
 SHA1: dab26e4b71b188565cfae4578d20bdf0a00e38c7
@@ -382,7 +382,7 @@ Package: Tomkids.bowman
 Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: Unknown
-Filename: debs/Tomkids.bowman_1.2_iphoneos-arm.deb
+Filename: debs/Tomkids..Game.Bowman_1.2_iphoneos-arm.deb
 Size: 384952
 MD5sum: 478e71ff6cb983aab58525ec2836f33a
 SHA1: a1c0817618432cedfec649f0fae3fd5d90b4183e
@@ -398,7 +398,7 @@ Package: Tomkids.dacnhantam
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Unknown
-Filename: debs/Tomkids.dacnhantam_1.0_iphoneos-arm.deb
+Filename: debs/Tomkids.App.Dacnhantam_1.0_iphoneos-arm.deb
 Size: 180724
 MD5sum: 9a450784644b1b8c90f6cf12858e4000
 SHA1: e9f6f851becd1b1fbf237254d76cc914554112c3
@@ -414,7 +414,7 @@ Package: Tomkids.iBooks
 Version: 3.1.3
 Architecture: iphoneos-arm
 Maintainer: Unknown
-Filename: debs/Tomkids.iBooks_3.1.3_iphoneos-arm.deb
+Filename: debs/Tomkids.App.iBooks_3.1.3_iphoneos-arm.deb
 Size: 29764968
 MD5sum: 6df3cedf0e5737bdc9768471a1dfe317
 SHA1: 24647264cad6efc3647e2b54b834574d82c9dfdc
@@ -428,7 +428,7 @@ Package: Tomkids.iGangster
 Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Unknown
-Filename: debs/Tomkids.iGangster_1.1_iphoneos-arm.deb
+Filename: debs/Tomkids..Game.iGangster_1.1_iphoneos-arm.deb
 Size: 280884
 MD5sum: 46e00c8ecb856c17cb9f194fdf936efc
 SHA1: 171838c5e7ac2d25f7435d7a4d11afafa5cf8a0a
@@ -1445,7 +1445,7 @@ Package: com.tomkids.flappybird
 Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: Unknown
-Filename: debs/com.tomkids.flappybird_1.2_iphoneos-arm.deb
+Filename: debs/Tomkids..Game.Flappybird_1.2_iphoneos-arm.deb
 Size: 1302176
 MD5sum: f10001d43c4f0c2d50172be416bbcd53
 SHA1: 73bb9c6793355fd47b879d690e09c8a6b6afbb95
@@ -1459,7 +1459,7 @@ Package: com.tomkids.foobar2000
 Version: 1.0.33
 Architecture: iphoneos-arm
 Maintainer: Unknown
-Filename: debs/Tomkids.foobar2000_1.0.33.deb
+Filename: debs/Tomkids.App.Foobar2000_1.0.33.deb
 Size: 11899968
 MD5sum: 3c58b3039ef8646546fa02293c63c0bc
 SHA1: e2398ce5e875919a3203de74c924655a3825553b
@@ -1473,7 +1473,7 @@ Package: com.tomkids.pacman
 Version: 1.0.5
 Architecture: iphoneos-arm
 Maintainer: Unknown
-Filename: debs/com.tomkids.pacman_1.0.5_iphoneos-arm.deb
+Filename: debs/Tomkids..Game.Pacman_1.0.5_iphoneos-arm.deb
 Size: 1631408
 MD5sum: d4fd784534ed5284a3b98b735879cc05
 SHA1: 8b9bcdeef1a8b04683b51aba550090266ea783df
@@ -2490,7 +2490,7 @@ Package: tomkids.Youtube1.0
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Unknown
-Filename: debs/tomkids.Youtube1.0_1.0_iphoneos-arm.deb
+Filename: debs/tomkids.App.Youtube1.0_1.0_iphoneos-arm.deb
 Size: 5128442
 MD5sum: f0579da6b0a89fd30b79a110c9bc549e
 SHA1: ee3c561eebefc09a2db54134ed4f50d89e34547c
@@ -2504,7 +2504,7 @@ Package: tomkids.Youtube17.28.2YoutubeX1.7.19
 Version: 17.28.2
 Architecture: iphoneos-arm
 Maintainer: Unknown
-Filename: debs/tomkids.Youtube17.28.2YoutubeX1.7.19_17.28.2_iphoneos-arm.deb
+Filename: debs/tomkids.App.Youtube17.28.2YoutubeX1.7.19_17.28.2_iphoneos-arm.deb
 Size: 75322114
 MD5sum: 527fc6b09115b2f8651f0cf8c1c3fc87
 SHA1: ffde9dba3712bd7b579048d9f368021d45b44d98
@@ -2518,7 +2518,7 @@ Package: tomkids.contra
 Version: 1.2.3
 Architecture: iphoneos-arm
 Maintainer: Unknown
-Filename: debs/Tomkids.Contra_1.2.3_AppOnly_Deb.deb
+Filename: debs/Tomkids..Game.Contra_1.2.3_AppOnly_Deb.deb
 Size: 47834548
 MD5sum: 18bc3702d41407039e0885ca078fe34d
 SHA1: f90e6b6f27715ad38027c805163bd0671e0ddde1
@@ -2580,7 +2580,7 @@ Version: 5.3.1
 Architecture: iphoneos-arm
 Maintainer: Tomkids
 Depends: firmware (< 9.0)
-Filename: debs/tomkids.nhaccuatui_5.3.1-1_iphoneos-arm.deb
+Filename: debs/Tomkids.App.Nhaccuatui_5.3.1-1_iphoneos-arm.deb
 Size: 16604312
 MD5sum: b6c2eade3976000947aa910894eaffee
 SHA1: f6a46c4b29acb8d894f4a2125dd505082e5eae1a
