@@ -122,6 +122,34 @@ Description: Mô tả ngắn gọn về app/tweak
 Author: Converted ipa to deb by Tomkids's tool
 Name: FIFA 1O
 
+Package: Tomkids.NhacChuong.GaiNghe
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Unknown
+Filename: debs/Tomkids.NhacChuong.GaiNghe_iphoneos-arm.deb
+Size: 1227530
+MD5sum: 3bfccdbdad589ca5aa57e1b71d49053c
+SHA1: c2d5efff1f060d849847651b134a930426692e75
+SHA256: e3f6c856ac0f107e7f13a374f5fae7eee0a2e7c4cbace3b5bbd202e692b18bf0
+Section: Ringtones
+Description: Nhạc chuông cho iOS
+Author: Unknown
+Name: Gái Nghệ
+
+Package: Tomkids.NhacChuong.GioLonDangThoi
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Unknown
+Filename: debs/Tomkids.NhacChuong.GioLonDangThoi_iphoneos-arm.deb
+Size: 684778
+MD5sum: b6ec997427da41eeb786343f5d18dd2f
+SHA1: 6681f2aeda5bfd50ec659ea308533da3a6a5bdb4
+SHA256: 5cd8ee72ac3f7be310bc99ec2f9d6dcdf27012c24d49e42aab2a37ab2e9e2ada
+Section: Ringtones
+Description: Nhạc chuông cho iOS
+Author: Unknown
+Name: Gió Lớn Đang Thổi Tuyết Lớn Đang Rơi
+
 Package: Tomkids.Snake
 Version: 2.0
 Architecture: iphoneos-arm
