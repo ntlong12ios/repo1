@@ -200,6 +200,20 @@ Description: Nhạc chuông cho iOS
 Author: Unknown
 Name: Bốn Chữ Lắm
 
+Package: Tomkids.NhacChuong.Bonghoachangtontai
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Unknown
+Filename: debs/Tomkids.NhacChuong.Bonghoachangtontai_iphoneos-arm.deb
+Size: 605316
+MD5sum: 56641361ee5d86d490683c09afad1fa2
+SHA1: ebef41482319258cfc2bedfc41c5302f68f9ee1f
+SHA256: 00f5d2e0bd92f422246524aa3da6fccb6263a32bfa54ff013fc4654ff5e8f617
+Section: Ringtones
+Description: Nhạc chuông cho iOS
+Author: Unknown
+Name: Bông hoa chẳng tồn tại
+
 Package: Tomkids.NhacChuong.CungVeTayBac
 Version: 1.0
 Architecture: iphoneos-arm
@@ -241,6 +255,20 @@ Section: Ringtones
 Description: Nhạc chuông cho iOS
 Author: Unknown
 Name: Gió Lớn Đang Thổi Tuyết Lớn Đang Rơi
+
+Package: Tomkids.NhacChuong.KeSayTinh2
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Unknown
+Filename: debs/Tomkids.NhacChuong.KeSayTinh2_iphoneos-arm.deb
+Size: 536822
+MD5sum: e8b3bfe9e9f2080ae8d9feb2e790595b
+SHA1: 9e2b065c0e61c72c55ccf5132a85487fb635d344
+SHA256: ddf01235dbff526574cfcd13508b8698e542933234f746aa3f02cf98a7f58f24
+Section: Ringtones
+Description: Nhạc chuông cho iOS
+Author: Unknown
+Name: Kẻ Say Tình 2 Remix – Quốc Thiên
 
 Package: Tomkids.NhacChuong.ThamVienNgoai
 Version: 1.0
