@@ -1,3 +1,19 @@
+Package: Tom.Sach.Doraemon1
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Unknown
+Filename: debs/Tom.Sach.Doraemon1_1.0_iphoneos-arm.deb
+Size: 28018346
+MD5sum: cd15c744ae19698110a0de69cdd9dc8f
+SHA1: d36b3f6c9aa197eda3bf2dd646167d62ba8e5d24
+SHA256: 59d1a322ae110a9b15d27d47b59838095cd92aa4a51e2270c0c11e33f6519639
+Section: Books
+Description: Mô tả sách...
+ .
+ Converted by Tomkids
+Author: Converted Book by Tomkids
+Name: DORAEMON - DU HANH BIEN PHUONG NAM
+
 Package: Tomkids.2010FIFAWORLDCUP
 Version: 1.0.2
 Architecture: iphoneos-arm
@@ -29,6 +45,22 @@ Description: Mô tả ngắn gọn về app/tweak
  Repackaged via Tomkids' Cydia Repo Manager
 Author: Air Hockey
 Name: Air Hockey
+
+Package: Tomkids.App.iBooks
+Version: 3.1.3
+Architecture: iphoneos-arm
+Maintainer: Unknown
+Filename: debs/Tomkids.App.iBooks_3.1.3_iphoneos-arm.deb
+Size: 29763674
+MD5sum: bd53533d29fe320c1cce13c613ea67be
+SHA1: 4e653fab32a9ae89dee26193766d09f0025dfef0
+SHA256: 84e1013bd7c1576794970ef377e4851ea3477a6374c656093a92c212df36d382
+Section: Applications
+Description: iBook 3.1.3 for IOS 6-8
+ .
+ Converted by Tomkids
+Author: Converted ipa to deb by Tomkids's tool
+Name: iBook 3.1.3 for IOS 6-8
 
 Package: Tomkids.AvatarOfWar
 Version: 1.0
@@ -298,6 +330,20 @@ Description: Nhạc chuông cho iOS
 Author: Unknown
 Name: Xổ xố Miền Bắc
 
+Package: Tomkids.Nhacchuong.ChapNiemTrongEm
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Unknown
+Filename: debs/Tomkids.Nhacchuong.ChapNiemTrongEm_iphoneos-arm.deb
+Size: 492180
+MD5sum: ec326066b2bf0a75add06cbdc00bd038
+SHA1: 8ac399e0040e85a14d0cc993adf565c7e3886fc5
+SHA256: 3230de6e9a9d8f6685bd154f77b3636bcf1541e8d834ef0fd5ffa46cacbc467b
+Section: Ringtones
+Description: Nhạc chuông cho iOS
+Author: Unknown
+Name: Chấp niệm trong em
+
 Package: Tomkids.OperaMini
 Version: 7.0.3.40701
 Architecture: iphoneos-arm
@@ -409,20 +455,6 @@ Description: Game for low ios
  Repackaged via Tomkids' Cydia Repo Manager
 Author: Dale Carnegie
 Name: Dac Nhan Tam
-
-Package: Tomkids.iBooks
-Version: 3.1.3
-Architecture: iphoneos-arm
-Maintainer: Unknown
-Filename: debs/Tomkids.App.iBooks_3.1.3_iphoneos-arm.deb
-Size: 29764968
-MD5sum: 6df3cedf0e5737bdc9768471a1dfe317
-SHA1: 24647264cad6efc3647e2b54b834574d82c9dfdc
-SHA256: 3fbd060a1079a3a89f17f0aa88d2d2ee1437ebaf2900baa0bbf2832f257295fe
-Section: Applications
-Description: Cài đặt iBook cho IOS 6. Lưu ý: không hoạt động trên IOS dưới 6
-Author: iBooks
-Name: iBooks3.1.3
 
 Package: Tomkids.iGangster
 Version: 1.1
@@ -2542,22 +2574,6 @@ Description: FaceBook app for Low iOS
 Author: Tomkids
 Icon: http://tomkidss.github.io/cydia/icons/facebook.png
 Name: FaceBook
-
-Package: tomkids.iBooks
-Version: 3.1.3
-Architecture: iphoneos-arm
-Maintainer: Tomkids
-Depends: firmware (< 7.0)
-Filename: debs/tomkids.iBooks_3.1.3-1_iphoneos-arm.deb
-Size: 29766586
-MD5sum: 76d7700188b2b04a29cbb45af557fe43
-SHA1: fd168c2a4d3a48253c909196060cb187c9674965
-SHA256: a7601b171a2ca7fe4fb9ad5adb7787f5efff53d126d9467a6f8bb5a280680850
-Section: Applications
-Description: iBooks app for Low iOS
-Author: Tomkids
-Icon: https://tomkidss.github.io/cydia/icons/ibooks.png
-Name: iBooks_IOS6
 
 Package: tomkids.ibooks.ipa
 Version: 3.1.3
