@@ -1,3 +1,19 @@
+Package: Tom.Sach.ChuThong15
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Unknown
+Filename: debs/Tom.Sach.ChuThong15_1.0_iphoneos-arm.deb
+Size: 9002332
+MD5sum: 7070e411940e1b3898cd133685667f0c
+SHA1: dfdcd9a4d961da49c6da9e3ceadac06ca5b36bc9
+SHA256: c734f29bd38ecc52bd8d61011999771a86df93be2d7ba83b5d68dbfee6f535ab
+Section: Books
+Description: Chu Thoong - T 15
+ .
+ Converted by Tomkids
+Author: Converted Book by Tomkids
+Name: Chu Thoong - T 15
+
 Package: Tom.Sach.Doraemon1
 Version: 1.0
 Architecture: iphoneos-arm
