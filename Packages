@@ -424,6 +424,20 @@ Description: Mô tả ngắn gọn về app/tweak
 Author: Unknown
 Name: Truyện Việt Nam
 
+Package: Tomkids.YoutubeFix
+Version: 1.3-1.0.6
+Architecture: iphoneos-arm
+Maintainer: Tomkids Converted
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 5.0), firmware (<< 11.0)
+Filename: debs/Tomkids.Youtube 1.3.0 Fix.deb
+Size: 7214794
+MD5sum: a8a61e515a033b9e2b11f1c136231372
+SHA1: d5de00ac949d288d0e231a7ff6e8fbe1432f187e
+SHA256: e15296a0dae4d1005b194a426b6548d7fc3404c7d1997a7eae090d141918e9ee
+Description: Youtube & Tubereplacer  Merged
+Author: Tomkids Converted
+Name: Youtube & Tubereplacer Fix chạy nền
+
 Package: Tomkids.ZingMp3
 Version: 3.2.1
 Architecture: iphoneos-arm
