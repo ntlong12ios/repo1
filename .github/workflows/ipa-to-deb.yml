@@ -15,6 +15,11 @@ on:
         options:
           - application
           - game
+          - utilities
+          - system
+          - theme
+          - font
+          - ringtone
 
 permissions:
   contents: write
