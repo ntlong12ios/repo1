@@ -438,6 +438,19 @@ Description: Weather & Stocks & Forecast & Weepreferenceloader Merged by Tomkids
 Author: Merged by Tomkids
 Name: Fix Thời tiết IOS 5 - 6
 
+Package: Tomkids.YoutubeFix
+Version: 1.3-1.0.6
+Architecture: iphoneos-arm
+Maintainer: Tomkids Converted
+Filename: debs/Tomkids.Youtube & Tubereplacer Fix chạy nền.deb
+Size: 7214720
+MD5sum: 6d24f421c721ccb9ac25d9174bf48a26
+SHA1: 4ae57955db3baf5751bfc88dad0ece46f97559cc
+SHA256: 64db204a06edf9db338feacd7d8d26c3b731146b1cb9bc449ec04af4bd7b80d6
+Description: Youtube & Tubereplacer  Merged by Tomkids
+Author: Tomkids Converted
+Name: Youtube & Tubereplacer Fix chạy nền
+
 Package: Tomkids.ZingMp3
 Version: 3.2.1
 Architecture: iphoneos-arm
@@ -675,6 +688,24 @@ Depiction: https://adrienrl1.github.io/cydia/depiction.html
 Icon: https://adrienrl1.github.io/cydia/PackageIcon.png
 Name: AppDrop
 
+Package: com.activision.wipeout
+Version: 2.0.5
+Architecture: iphoneos-arm
+Maintainer: Admin <admin@localhost>
+Depends: firmware (>= 4.0), uikittools, appsync
+Filename: debs/com.activision.wipeout-2.0.5-iOS-4.0.deb
+Size: 40401424
+MD5sum: 84f64e2e370548b9d338f2b2a31913d9
+SHA1: 97484aac171c5aae3632f3dbe9a7620be7c59ea1
+SHA256: 2c47a2891845c7a52fd513f996d739b1d100d3547f325d191d0c027bf0e167bb
+Section: AppStore Apps
+Homepage: https://github.com/ntlong12ios/repo1
+Description: The decrypted ipa file: Wipeout%28v2.0.5%29.ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
+Author: Admin <admin@localhost>
+Depiction: https://github.com/ntlong12ios/repo1
+Name: Wipeout v2.0.5 (iOS 4.0)
+Sponsor: Admin <admin@localhost>
+
 Package: com.aoi.storefix
 Version: 1.0-6
 Architecture: iphoneos-arm
@@ -718,11 +749,11 @@ Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: debs/com.arichardson.weepreferenceloader_1.1_iphoneos-arm.deb
-Size: 34562
-MD5sum: 1deaeb81dd1dcd9fe7f9521fa8be6524
-SHA1: 10b0ecae5a95031c1f7485e6e735ba64779fcf79
-SHA256: 4971aec5462de7fba3593fb18bf6091d9c40ef59e48d57725eedea95bb71cb7d
+Filename: debs/tomkids.weepreferenceloader_1.1_iphoneos-arm.deb
+Size: 34568
+MD5sum: cef1b082bc028c22ae0eda383df0e491
+SHA1: f7e773071127ebc8910ca86b1f69b01301aa9f6e
+SHA256: 7ed9065b10acfd0d58c7ac01b69cd921639dc881f4b7087970d9f44ee455117a
 Section: Tweaks
 Priority: extra
 Homepage: http://modmyi.com/info/weepreferenceloader.php
@@ -737,11 +768,11 @@ Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: debs/tomkids.weepreferenceloader_1.1_iphoneos-arm.deb
-Size: 34568
-MD5sum: cef1b082bc028c22ae0eda383df0e491
-SHA1: f7e773071127ebc8910ca86b1f69b01301aa9f6e
-SHA256: 7ed9065b10acfd0d58c7ac01b69cd921639dc881f4b7087970d9f44ee455117a
+Filename: debs/com.arichardson.weepreferenceloader_1.1_iphoneos-arm.deb
+Size: 34562
+MD5sum: 1deaeb81dd1dcd9fe7f9521fa8be6524
+SHA1: 10b0ecae5a95031c1f7485e6e735ba64779fcf79
+SHA256: 4971aec5462de7fba3593fb18bf6091d9c40ef59e48d57725eedea95bb71cb7d
 Section: Tweaks
 Priority: extra
 Homepage: http://modmyi.com/info/weepreferenceloader.php
@@ -1044,11 +1075,11 @@ Version: 1.7.1
 Architecture: iphoneos-arm
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
 Depends: firmware (>= 5.0), mobilesubstrate, com.chpwn.weeloader, preferenceloader
-Filename: debs/com.jamied360.ncsettings_1.7.1_iphoneos-arm.deb
-Size: 469838
-MD5sum: 6f472f4cf6b12e1b19ef28ac0fd47d97
-SHA1: 566fe499d697a809bf3b05572ca0d72c7461a500
-SHA256: dd8f4d64ca86378fe8b98346216983d274b611aa81b3ce572677595f4147fd18
+Filename: debs/tomkids.ncsettings_1.7.1_iphoneos-arm.deb
+Size: 469848
+MD5sum: e165cb7653f3923836b609ef54f15330
+SHA1: e06127303117b9beabf6fe69304e20a56f3f534e
+SHA256: ff99ee1c9dc9f2df97b4b3fc3b095b8f7eff401916830129866b9ad564edbcc4
 Section: Addons (NotificationCenter)
 Priority: extra
 Homepage: http://modmyi.com/info/ncsettings.php
@@ -1063,11 +1094,11 @@ Version: 1.7.1
 Architecture: iphoneos-arm
 Maintainer: poetic_folly <poetic_folly@modmyi.com>
 Depends: firmware (>= 5.0), mobilesubstrate, com.chpwn.weeloader, preferenceloader
-Filename: debs/tomkids.ncsettings_1.7.1_iphoneos-arm.deb
-Size: 469848
-MD5sum: e165cb7653f3923836b609ef54f15330
-SHA1: e06127303117b9beabf6fe69304e20a56f3f534e
-SHA256: ff99ee1c9dc9f2df97b4b3fc3b095b8f7eff401916830129866b9ad564edbcc4
+Filename: debs/com.jamied360.ncsettings_1.7.1_iphoneos-arm.deb
+Size: 469838
+MD5sum: 6f472f4cf6b12e1b19ef28ac0fd47d97
+SHA1: 566fe499d697a809bf3b05572ca0d72c7461a500
+SHA256: dd8f4d64ca86378fe8b98346216983d274b611aa81b3ce572677595f4147fd18
 Section: Addons (NotificationCenter)
 Priority: extra
 Homepage: http://modmyi.com/info/ncsettings.php
@@ -1162,7 +1193,7 @@ Architecture: iphoneos-arm
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 133
 Depends: mobilesubstrate, firmware (>= 4.0), preferenceloader, applist
-Filename: debs/com.mathieubolard.killbackground_1.3.1-7_iphoneos-arm (1).deb
+Filename: debs/com.mathieubolard.killbackground_1.3.1-7_iphoneos-arm.deb
 Size: 71280
 MD5sum: 3d33c09acb224ea7078601c180e80de1
 SHA1: 048554dfee5778b9aca58770d695d5b1d26be977
@@ -1185,7 +1216,7 @@ Architecture: iphoneos-arm
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 133
 Depends: mobilesubstrate, firmware (>= 4.0), preferenceloader, applist
-Filename: debs/com.mathieubolard.killbackground_1.3.1-7_iphoneos-arm.deb
+Filename: debs/com.mathieubolard.killbackground_1.3.1-7_iphoneos-arm (1).deb
 Size: 71280
 MD5sum: 3d33c09acb224ea7078601c180e80de1
 SHA1: 048554dfee5778b9aca58770d695d5b1d26be977
@@ -1489,11 +1520,11 @@ Architecture: iphoneos-arm
 Maintainer: Requis
 Depends: mobilesubstrate (>= 0.9.2586), firmware (>= 2.0), firmware (<= 7.9), preferenceloader
 Conflicts: com.ixmoe.1pwn.weatherx, com.skyglow.stocksx
-Filename: debs/com.skyglow.weatherx_3.5_iphoneos-arm.deb
-Size: 155742
-MD5sum: 689171cd5f391aed223f3c0ad7e4ce3b
-SHA1: cef43a162338ef6001d56d4a4085a97e234d0340
-SHA256: 2da0aab5c140809c5d461a13a2c69029a1e4f8db9c56695c222648c37e04d9ea
+Filename: debs/WeatherX-Legacy.deb
+Size: 155622
+MD5sum: a6d5f494a673da237ffa95d289538447
+SHA1: 9fb97aee0ce011ea1b6bf8224e8da0ef5af2652b
+SHA256: b530eb8231e01a11562e16f23767c925f548e3261b224aaf3f7047afa514a6a0
 Section: Tweaks
 Description: Fix iOS's Weather & Stocks apps from iPhoneOS 2 to iOS 7, the widgets in the notification center, and the temperature in the iPad clock app!
 Author: Requis, Electimon
@@ -1506,11 +1537,11 @@ Architecture: iphoneos-arm
 Maintainer: Requis
 Depends: mobilesubstrate (>= 0.9.2586), firmware (>= 2.0), firmware (<= 7.9), preferenceloader
 Conflicts: com.ixmoe.1pwn.weatherx, com.skyglow.stocksx
-Filename: debs/WeatherX-Legacy.deb
-Size: 155622
-MD5sum: a6d5f494a673da237ffa95d289538447
-SHA1: 9fb97aee0ce011ea1b6bf8224e8da0ef5af2652b
-SHA256: b530eb8231e01a11562e16f23767c925f548e3261b224aaf3f7047afa514a6a0
+Filename: debs/com.skyglow.weatherx_3.5_iphoneos-arm.deb
+Size: 155742
+MD5sum: 689171cd5f391aed223f3c0ad7e4ce3b
+SHA1: cef43a162338ef6001d56d4a4085a97e234d0340
+SHA256: 2da0aab5c140809c5d461a13a2c69029a1e4f8db9c56695c222648c37e04d9ea
 Section: Tweaks
 Description: Fix iOS's Weather & Stocks apps from iPhoneOS 2 to iOS 7, the widgets in the notification center, and the temperature in the iPad clock app!
 Author: Requis, Electimon
@@ -1731,7 +1762,7 @@ Version: 1.0-1+debug
 Architecture: iphoneos-arm
 Maintainer: tuanem
 Installed-Size: 1444
-Filename: debs/com.tuanem.shshchecker_1.0_iphoneos-arm.deb
+Filename: debs/tomkids.shshchecker_1.0_iphoneos-arm.deb
 Size: 340310
 MD5sum: d893f5ffde5f8a14cbd3537d868f0e3b
 SHA1: e373d21046327e5ab5e7e07cad4fc05e246fc1a8
@@ -1747,7 +1778,7 @@ Version: 1.0-1+debug
 Architecture: iphoneos-arm
 Maintainer: tuanem
 Installed-Size: 1444
-Filename: debs/tomkids.shshchecker_1.0_iphoneos-arm.deb
+Filename: debs/com.tuanem.shshchecker_1.0_iphoneos-arm.deb
 Size: 340310
 MD5sum: d893f5ffde5f8a14cbd3537d868f0e3b
 SHA1: e373d21046327e5ab5e7e07cad4fc05e246fc1a8
@@ -1796,7 +1827,7 @@ Architecture: iphoneos-arm
 Maintainer: Tuanem
 Installed-Size: 40
 Depends: mobilesubstrate
-Filename: debs/com.tuanem.ytbackground_1.1_iphoneos-arm.deb
+Filename: debs/tomkids.ytbackground_1.1_iphoneos-arm.deb
 Size: 5118
 MD5sum: 8f9f2f630990dd881b5323be5f68a4bd
 SHA1: 84efb60e83e84ba6ecfb33df9ba39609687c3f56
@@ -1812,7 +1843,7 @@ Architecture: iphoneos-arm
 Maintainer: Tuanem
 Installed-Size: 40
 Depends: mobilesubstrate
-Filename: debs/tomkids.ytbackground_1.1_iphoneos-arm.deb
+Filename: debs/com.tuanem.ytbackground_1.1_iphoneos-arm.deb
 Size: 5118
 MD5sum: 8f9f2f630990dd881b5323be5f68a4bd
 SHA1: 84efb60e83e84ba6ecfb33df9ba39609687c3f56
@@ -2264,11 +2295,11 @@ Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
 Installed-Size: 4736
 Pre-Depends: dpkg (>= 1.14.25-8)
 Depends: openssl
-Filename: debs/openssh_6.7p1-13_iphoneos-arm.deb
-Size: 2374384
-MD5sum: fb55e282d72d2ff7a32deb4aab24e51f
-SHA1: ffaa7374b58351382542010cc17ec05d7e6e9bdd
-SHA256: 56b0a3705647b74cc82c8697c2aa51cd6498a3af4dca6418c9ef3ec19e119a44
+Filename: debs/tomkids.openssh_6.7p1-13_iphoneos-arm.deb
+Size: 2374426
+MD5sum: e8268b65cd4fdb46b1cdc898140eedaf
+SHA1: 7ac68378e5b305470072f51bb826be8546de718f
+SHA256: 5371f33b94e06771f7dce6c73b721c81921b477459c3a0528f304ff39a1db533
 Section: Networking
 Priority: important
 Description: secure remote access between machines
@@ -2282,11 +2313,11 @@ Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
 Installed-Size: 4736
 Pre-Depends: dpkg (>= 1.14.25-8)
 Depends: openssl
-Filename: debs/tomkids.openssh_6.7p1-13_iphoneos-arm.deb
-Size: 2374426
-MD5sum: e8268b65cd4fdb46b1cdc898140eedaf
-SHA1: 7ac68378e5b305470072f51bb826be8546de718f
-SHA256: 5371f33b94e06771f7dce6c73b721c81921b477459c3a0528f304ff39a1db533
+Filename: debs/openssh_6.7p1-13_iphoneos-arm.deb
+Size: 2374384
+MD5sum: fb55e282d72d2ff7a32deb4aab24e51f
+SHA1: ffaa7374b58351382542010cc17ec05d7e6e9bdd
+SHA256: 56b0a3705647b74cc82c8697c2aa51cd6498a3af4dca6418c9ef3ec19e119a44
 Section: Networking
 Priority: important
 Description: secure remote access between machines
@@ -3113,12 +3144,12 @@ Version: 1.3.3-3
 Architecture: iphoneos-arm
 Maintainer: Cydia.vn <repo@cydia.vn>
 Installed-Size: 2919
-Depends: gsmicon, firmware (>= 5.0), mobilesubstrate, com.chpwn.weeloader, preferenceloader
-Filename: debs/tomkids.flipclockwidget_1.3.3-3_iphoneos-arm.deb
-Size: 2743734
-MD5sum: bdfefd02abdb227a7394d29a8e3aad67
-SHA1: a898b2446a0a2b0ebe1e7e8c186405814bd75b99
-SHA256: 162df6f3e7f478dffc33b795d3d4830f93afe2e38fa746d4c575b60e8f426e90
+Depends: firmware (>= 5.0), mobilesubstrate, com.chpwn.weeloader, preferenceloader
+Filename: debs/tomkids.flipclockwidget_1.3.3-3_iphoneos-arm_FIXED.deb
+Size: 2586722
+MD5sum: 0d076a06b7259b82da30c44e78032721
+SHA1: 14e8c23b79ad61dd541b5a6c7387679d8ace54ff
+SHA256: e437972494acc418e19ffccdeaa6a35c7ad4ec172177edc695c79b7af07b2f3c
 Section: !GSMVN-Tools
 Homepage: http://cydia.vn/
 Description: beautiful animated flip clock widget for the notification center.
@@ -3133,12 +3164,12 @@ Version: 1.3.3-3
 Architecture: iphoneos-arm
 Maintainer: Cydia.vn <repo@cydia.vn>
 Installed-Size: 2919
-Depends: firmware (>= 5.0), mobilesubstrate, com.chpwn.weeloader, preferenceloader
-Filename: debs/tomkids.flipclockwidget_1.3.3-3_iphoneos-arm_FIXED.deb
-Size: 2586722
-MD5sum: 0d076a06b7259b82da30c44e78032721
-SHA1: 14e8c23b79ad61dd541b5a6c7387679d8ace54ff
-SHA256: e437972494acc418e19ffccdeaa6a35c7ad4ec172177edc695c79b7af07b2f3c
+Depends: gsmicon, firmware (>= 5.0), mobilesubstrate, com.chpwn.weeloader, preferenceloader
+Filename: debs/tomkids.flipclockwidget_1.3.3-3_iphoneos-arm.deb
+Size: 2743734
+MD5sum: bdfefd02abdb227a7394d29a8e3aad67
+SHA1: a898b2446a0a2b0ebe1e7e8c186405814bd75b99
+SHA256: 162df6f3e7f478dffc33b795d3d4830f93afe2e38fa746d4c575b60e8f426e90
 Section: !GSMVN-Tools
 Homepage: http://cydia.vn/
 Description: beautiful animated flip clock widget for the notification center.
@@ -3173,7 +3204,7 @@ Version: 1.1.3k1
 Architecture: iphoneos-arm
 Maintainer: Cydia.vn <repo@cydia.vn>
 Depends: firmware (>= 6), mobilesubstrate, preferenceloader (>= 2.2), applist (>= 1.5.9), cy+model.iphone | cy+model.ipod
-Filename: debs/fullforce_v1.1.3 (1).deb
+Filename: debs/fullforce_v1.1.3.deb
 Size: 106582
 MD5sum: 9d2e31e04eedb51e72051bd899a08ca3
 SHA1: 7107090015ceb3e12d89d793d68f9e0f60fe089a
@@ -3191,7 +3222,7 @@ Version: 1.1.3k1
 Architecture: iphoneos-arm
 Maintainer: Cydia.vn <repo@cydia.vn>
 Depends: firmware (>= 6), mobilesubstrate, preferenceloader (>= 2.2), applist (>= 1.5.9), cy+model.iphone | cy+model.ipod
-Filename: debs/fullforce_v1.1.3.deb
+Filename: debs/fullforce_v1.1.3 (1).deb
 Size: 106582
 MD5sum: 9d2e31e04eedb51e72051bd899a08ca3
 SHA1: 7107090015ceb3e12d89d793d68f9e0f60fe089a
@@ -3360,7 +3391,7 @@ Version: 1.12.1p
 Architecture: iphoneos-arm
 Maintainer: Cydia.vn <repo@cydia.vn>
 Depends: firmware (>= 4.0), preferenceloader
-Filename: debs/vn.gsm.protube_1.12.1p_iphoneos-arm (1).deb
+Filename: debs/vn.gsm.protube_1.12.1p_iphoneos-arm.deb
 Size: 7506492
 MD5sum: 0d54ca872d0b982cea99dc3b551a0e5b
 SHA1: cdacacb38b227fc67e712fc8019840899ebc0988
@@ -3378,7 +3409,7 @@ Version: 1.12.1p
 Architecture: iphoneos-arm
 Maintainer: Cydia.vn <repo@cydia.vn>
 Depends: firmware (>= 4.0), preferenceloader
-Filename: debs/vn.gsm.protube_1.12.1p_iphoneos-arm.deb
+Filename: debs/vn.gsm.protube_1.12.1p_iphoneos-arm (1).deb
 Size: 7506492
 MD5sum: 0d54ca872d0b982cea99dc3b551a0e5b
 SHA1: cdacacb38b227fc67e712fc8019840899ebc0988
