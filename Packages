@@ -2377,6 +2377,24 @@ Dev: exilecom
 Icon: file:///Applications/iCleaner.app/Icon.png
 Name: iCleaner
 
+Package: org.coolstar.RecordMyScreen
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Admin <admin@localhost>
+Depends: firmware (>= 5.0), uikittools, appsync
+Filename: debs/application/org.coolstar.RecordMyScreen-1.0-iOS-5.0.deb
+Size: 302414
+MD5sum: defde161e3e0320d72c12473487c6111
+SHA1: d86468f76df4e4c3d82d6b38d8f406375b7818c7
+SHA256: 19bc7b3a4f56b2c15f4c62815ad55345e41a6c85cc302b88488af60e3619b00c
+Section: AppStore Apps
+Homepage: https://github.com/ntlong12ios/repo1
+Description: The decrypted ipa file: gdrive_app_1sjLg2beLXaqjH11MG_6rP-Hkk1JxAUsp.ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
+Author: Admin <admin@localhost>
+Depiction: https://github.com/ntlong12ios/repo1
+Name: RecordMyScreen v1.0 (iOS 5.0)
+Sponsor: Admin <admin@localhost>
+
 Package: org.jyvee8games.itunesfix
 Version: 0.1-5+debug
 Architecture: iphoneos-arm
