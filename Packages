@@ -901,6 +901,24 @@ Author: dba Technologies, LLC <support@dba-technologies.com>
 Depiction: http://modmyi.com/info/forecast.d.php
 Name: Forecast
 
+Package: com.estmob.paprika
+Version: 407161755
+Architecture: iphoneos-arm
+Maintainer: Admin <admin@localhost>
+Depends: firmware (>= 5.0), uikittools, appsync
+Filename: debs/utilities/com.estmob.paprika-407161755-iOS-5.0.deb
+Size: 3331812
+MD5sum: 303b1eca59a238ba2cc29a29daccbae4
+SHA1: 1963dff381ec96365660639cd061ad2fc32f5b58
+SHA256: 9f555f6c53d45faa9d79ed4997e72567c356a9dffd2d94ef429113a9489df892
+Section: AppStore Apps
+Homepage: https://github.com/ntlong12ios/repo1
+Description: The decrypted ipa file: gdrive_app_11uZvRWiC990U7qsivce8yriaofDtqPrS.ipa converted to .deb automatically by https://alex-free.github.io/ipa2deb .
+Author: Admin <admin@localhost>
+Depiction: https://github.com/ntlong12ios/repo1
+Name: Send Anywhere v407161755 (iOS 5.0)
+Sponsor: Admin <admin@localhost>
+
 Package: com.hackyouriphone.classiclockscreen
 Version: 3.3.1k
 Architecture: iphoneos-arm
